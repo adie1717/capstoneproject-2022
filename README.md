@@ -1,2 +1,2 @@
-# capstoneproject-2022
-Capstone Project 2022
+# Electric Vehicles
+A collaborative project to determine if incentives drive sales and ownership of EVs in California.
