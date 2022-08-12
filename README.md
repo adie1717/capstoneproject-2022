@@ -20,7 +20,7 @@ Using 3 datasets containing California electric vehicle information, we are aimi
   - What is the opportunity in identifying a gap in this dataset?
   - What is the market opportunity?
 
-## Data Collection and Cleaning
+### Data Collection and Cleaning
 - Found CA incentives data on [driveclean.ca.gov](https://driveclean.ca.gov/search-incentives)
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
