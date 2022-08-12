@@ -1,0 +1,171 @@
+County,Incentive Type,EV Type,Max Amount,Requirements,Low Income
+Alameda,Rebate,All-Electric,1500,No,
+Alameda,Grant,Any,9500,Yes,Yes
+Alameda,Grant,Any,5000,Yes,Yes
+Alameda,Toll discount,CAV,,Yes,
+All,Reward,BEV,750,No,
+All,Rebate,FCEV,4500,Yes,
+All,Rebate,All-electric,2000,Yes,
+All,Rebate,PHEV,1000,Yes,
+All,Rebate,Any,2500,Yes,Yes
+All,Tax Credit,Any,7500,No,
+All,HOV,Any,,Yes,
+All,Tax Credit,FCEV,8000,No,
+All,Reward,PHEV,750,No,
+Contra Costa,Grant,Any,9500,Yes,Yes
+Contra Costa,Grant,Any,5000,Yes,Yes
+Contra Costa,Toll discount,CAV,,Yes,
+El Dorado,Rebate,Any,599,Yes,
+Fresno,Rebate,BEV,3000,Yes,
+Fresno,Rebate,FCEV,3000,Yes,
+Fresno,Rebate,PHEV,2500,Yes,
+Fresno,Rebate,PZEV,2000,Yes,
+Fresno,Rebate,SULEV,1500,Yes,
+Fresno,Grant,Any,9500,Yes,Yes
+Inyo,Rebate,Any,1000,Yes,
+Inyo,Rebate,Any,3000,Yes,Yes
+Kern,Voucher,ZEV,4000,No,
+Kern,Voucher,PZEV,2000,No,
+Kern,Rebate,BEV,3000,Yes,
+Kern,Rebate,FCEV,3000,Yes,
+Kern,Rebate,PHEV,2500,Yes,
+Kern,Rebate,PZEV,2000,Yes,
+Kern,Rebate,SULEV,1500,Yes,
+Kern,Grant,Any,9500,Yes,Yes
+Kern,Rebate,Any,1000,Yes,
+Kern,Rebate,Any,3000,Yes,Yes
+Kings,Rebate,BEV,3000,Yes,
+Kings,Rebate,FCEV,3000,Yes,
+Kings,Rebate,PHEV,2500,Yes,
+Kings,Rebate,PZEV,2000,Yes,
+Kings,Rebate,SULEV,1500,Yes,
+Kings,Grant,Any,9500,Yes,Yes
+Lassen,Rebate,BEV,500,Yes,
+Lassen,Rebate,PHEV,500,Yes,
+Los Angeles,Rebate,All-electric,2500,No,
+Los Angeles,Voucher,All-electric,3000,Yes,
+Los Angeles,Rebate,Any,1500,No,
+Los Angeles,Rebate,Any,1000,Yes,Yes
+Los Angeles,Rebate,Any,500,No,
+Los Angeles,Rebate,Any,1000,Yes,Yes
+Los Angeles,Grant,Any,9500,Yes,Yes
+Los Angeles,Rebate,Any,1000,Yes,
+Los Angeles,Rebate,Any,3000,Yes,Yes
+Los Angeles,Rebate,EV charger,250,No,
+Los Angeles,Rebate,EV charger,250,Yes,Yes
+Los Angeles,Free parking,All-electric,6.5,Yes,
+Los Angeles,Free parking,CAV,5,Yes,
+Los Angeles,Rebate,PHEV,2500,No,
+Los Angeles,Voucher,PHEV,3000,Yes,
+Madera,Rebate,BEV,3000,Yes,
+Madera,Rebate,FCEV,3000,Yes,
+Madera,Rebate,PHEV,2500,Yes,
+Madera,Rebate,PZEV,2000,Yes,
+Madera,Rebate,SULEV,1500,Yes,
+Madera,Grant,Any,9500,Yes,Yes
+Marin,Rebate,Any,3500,Yes,Yes
+Marin,Grant,Any,9500,Yes,Yes
+Marin,Grant,Any,5000,Yes,Yes
+Marin,Toll discount,CAV,,Yes,
+Marin,Free parking,All-electric,1.8,Yes,
+Merced,Rebate,BEV,3000,Yes,
+Merced,Rebate,FCEV,3000,Yes,
+Merced,Rebate,PHEV,2500,Yes,
+Merced,Rebate,PZEV,2000,Yes,
+Merced,Rebate,SULEV,1500,Yes,
+Merced,Grant,Any,9500,Yes,Yes
+Merced,Rebate,Any,500,No,
+Merced,Rebate,Any,700,Yes,Yes
+Merced,Rebate,EV charger,300,No,
+Merced,Rebate,EV charger,100,Yes,Yes
+Mono,Rebate,Any,1000,Yes,
+Mono,Rebate,Any,3000,Yes,Yes
+Napa,Grant,Any,9500,Yes,Yes
+Napa,Grant,Any,5000,Yes,Yes
+Napa,Toll discount,CAV,,Yes,
+Nevada,Rebate,EV charger,500,Yes,
+Orange,Grant,Any,9500,Yes,Yes
+Orange,Rebate,Any,1000,Yes,
+Orange,Rebate,Any,3000,Yes,Yes
+Orange,Rebate,EV charger,250,No,
+Orange,Rebate,EV charger,250,Yes,Yes
+Placer,Rebate,BEV,300,Yes,
+Placer,Rebate,BEV,700,Yes,Yes
+Placer,Rebate,EV charger,500,Yes,
+Placer,Rebate,PHEV,300,Yes,
+Placer,Rebate,PHEV,700,Yes,Yes
+Plumas,Rebate,BEV,500,Yes,
+Plumas,Rebate,PHEV,500,Yes,
+Riverside,Rebate,All-electric,500,Yes,
+Riverside,Rebate,FCEV,500,Yes,
+Riverside,Rebate,NEV - Neighborhood Electric Vehicle,250,Yes,
+Riverside,Rebate,Electric Motorcycles,250,Yes,
+Riverside,Grant,Any,9500,Yes,Yes
+Riverside,Rebate,Any,1000,Yes,
+Riverside,Rebate,Any,3000,Yes,Yes
+Riverside,Rebate,EV charger,250,No,
+Riverside,Rebate,EV charger,250,Yes,Yes
+Sacramento,Grant,Any,5000,Yes,Yes
+Sacramento,Free charging,All-electric,16,Yes,
+San Bernardino,Rebate,Any,1000,No,
+San Bernardino,Rebate,Any,500,Yes,
+San Bernardino,Grant,Any,9500,Yes,Yes
+San Bernardino,Rebate,Any,1000,Yes,
+San Bernardino,Rebate,Any,3000,Yes,Yes
+San Bernardino,Rebate,EV charger,250,No,
+San Bernardino,Rebate,EV charger,250,Yes,Yes
+San Francisco,Grant,Any,9500,Yes,Yes
+San Francisco,Grant,Any,5000,Yes,Yes
+San Francisco,Toll discount,CAV,,Yes,
+San Joaquin,Rebate,BEV,3000,Yes,
+San Joaquin,Rebate,FCEV,3000,Yes,
+San Joaquin,Rebate,PHEV,2500,Yes,
+San Joaquin,Rebate,PZEV,2000,Yes,
+San Joaquin,Rebate,SULEV,1500,Yes,
+San Joaquin,Grant,Any,9500,Yes,Yes
+San Mateo,Grant,Any,9500,Yes,Yes
+San Mateo,Grant,Any,5000,Yes,Yes
+San Mateo,Toll discount,CAV,,Yes,
+San Mateo,Rebate,PHEV,700,No,
+San Mateo,Rebate,PHEV,5000,Yes,Yes
+San Mateo,Rebate,BEV,1000,No,
+San Mateo,Rebate,BEV,5000,Yes,Yes
+Santa Clara,Grant,Any,9500,Yes,Yes
+Santa Clara,Grant,Any,5000,Yes,Yes
+Santa Clara,Toll discount,CAV,,Yes,
+Santa Cruz,Grant,Any,5000,Yes,Yes
+Shasta ,Rebate,BEV,1000,Yes,
+Shasta ,Rebate,PHEV,1000,Yes,
+Sierra,Rebate,BEV,500,Yes,
+Sierra,Rebate,PHEV,500,Yes,
+Solano,Grant,Any,9500,Yes,Yes
+Solano,Grant,Any,5000,Yes,Yes
+Solano,Toll discount,CAV,,Yes,
+Sonoma,Grant,Any,9500,Yes,Yes
+Sonoma,Grant,Any,5000,Yes,Yes
+Sonoma,Rebate,EV charger,1000,Yes,
+Sonoma,Toll discount,CAV,,Yes,
+Stanislaus,Rebate,BEV,3000,Yes,
+Stanislaus,Rebate,FCEV,3000,Yes,
+Stanislaus,Rebate,PHEV,2500,Yes,
+Stanislaus,Rebate,PZEV,2000,Yes,
+Stanislaus,Rebate,SULEV,1500,Yes,
+Stanislaus,Grant,Any,9500,Yes,Yes
+Stanislaus,Rebate,Any,500,No,
+Stanislaus,Rebate,Any,700,Yes,Yes
+Stanislaus,Rebate,EV charger,300,No,
+Stanislaus,Rebate,EV charger,100,Yes,Yes
+Trinity,Rebate,EV charger,500,Yes,
+Tulare,Rebate,BEV,3000,Yes,
+Tulare,Rebate,FCEV,3000,Yes,
+Tulare,Rebate,PHEV,2500,Yes,
+Tulare,Rebate,PZEV,2000,Yes,
+Tulare,Rebate,SULEV,1500,Yes,
+Tulare,Grant,Any,9500,Yes,Yes
+Tulare,Rebate,Any,1000,Yes,
+Tulare,Rebate,Any,3000,Yes,Yes
+Ventura,Rebate,Any,1000,Yes,
+Ventura,Rebate,Any,3000,Yes,Yes
+Washoe,Rebate,BEV,500,Yes,
+Washoe,Rebate,PHEV,500,Yes,
+Yolo,Grant,Any,5000,Yes,Yes
