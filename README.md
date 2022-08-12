@@ -18,6 +18,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 
 ## Table of contents
 * [Overview of Project](#overview-of-project)
+* [Communication Protocols](#communication protocols)
 * [Data Collection and Cleaning](#data-collection-and-cleaning)
 * [Results](#results)
 * [Summary](#summary)
@@ -38,6 +39,11 @@ AH The purpose of this project is to analyze factors that contribute to EV purch
 - Emailed organizations for additional info, like start and end dates, if missing
 - Categorized by EV type and added columns for Requirements, Low Income eligibilty, and One-time Use
 
+##Communication Protocols
+AH - The primary communication protocol used for this project was Github repositories with each team member owning an individual branch. Pull requests were managed and reviewed by at least one team member prior to merging into our main branch. This additional level of review helped with managing changes.  
+
 ## Results
 
 ## Summary
+
+
