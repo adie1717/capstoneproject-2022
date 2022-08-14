@@ -33,6 +33,7 @@ Team members used Slack, shared Google files, and GitHub to communicate
     - This additional level of review helped with managing changes
 
 ## Data Collection and Cleaning
+<!-- This comment is hidden from public: Add bullet points and explain changes made to original datasets -->
 - Found CA incentives data on [driveclean.ca.gov](https://driveclean.ca.gov/search-incentives)
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
@@ -40,6 +41,7 @@ Team members used Slack, shared Google files, and GitHub to communicate
 
 ## Database Model
 <!-- This comment is hidden from public: Add ERD/excel database model and any bullet points -->
+![ERD](ERD_mockup.png)
 
 ## Machine Learning Model
 - Takes in data from provisional model
