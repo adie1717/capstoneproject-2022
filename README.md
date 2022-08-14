@@ -3,6 +3,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 
 ## Table of contents
 * [Overview of Project](#overview-of-project)
+* [Communication Protocols](#communication-protocols)
 * [Data Collection and Cleaning](#data-collection-and-cleaning)
 * [Database Model](#database-model)
 * [Machine Learning Model](#machine-learning-model)
@@ -14,7 +15,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 - Tools: Python 3.7.13, Jupyter Notebook, Excel
 
 ## Overview of Project
-Using 3 datasets containing California electric vehicle information, we are aiming to create a relational database and examine what 3 major factors are highly correlated with EV adoption. Using this data we hope to be able to accurately predict whether someone will buy an EV and present to manufacturers the strengths and weaknesses in their market and potential improvements that can be made.
+The purpose of this project is to analyze factors that contribute to EV purchases in the state of California. At a more granular level, we will be looking at factors within California counties to determine any relevant factors that contribute most to purchases. The primary data point we will be using for our analysis is the total amount of incentives offered by county. As supplementary factors, we will be looking at demographic data to identify any correlation between household income, commuter miles driven, etc, and EV ownership. Using this analysis we hope to be able to accurately predict whether someone will buy an EV and present to manufacturers the strengths and weaknesses in their market and potential improvements that can be made.
 
 Hypothesis: The 3 major factors improve EV sales/ownership in counties with at least X values for those factors.
 - What is the opportunity in identifying a gap in this dataset?
@@ -22,6 +23,14 @@ Hypothesis: The 3 major factors improve EV sales/ownership in counties with at l
 - Which counties in CA should EV manufacturers focus their marketing?
 - Should EV manufacturers be encouraging implementation of incentives to drive sales?
 
+### Communication Protocols
+Team members used Slack, shared Google files, and GitHub to communicate
+- Using `@` to mention specific members or for urgent messages in Slack
+- Commenting on shared Google files to mark any changes
+- Using commit messages to explain changes made by other devs
+  - Each team member owns an individual branch
+  - Pull requests reviewed by at least one team member prior to merging into the main branch
+    - This additional level of review helped with managing changes
 
 ## Data Collection and Cleaning
 - Found CA incentives data on [driveclean.ca.gov](https://driveclean.ca.gov/search-incentives)
