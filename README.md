@@ -31,6 +31,10 @@ Team members used Slack, shared Google files, and GitHub to communicate
   - Each team member owns an individual branch
   - Pull requests reviewed by at least one team member prior to merging into the main branch
     - This additional level of review helped with managing changes
+- Roles
+  - Adriana: Square
+  - Kole: Triangle
+  - Juan: Circle
 
 ## Data Collection and Cleaning
 <!-- This comment is hidden from public: Add bullet points and explain changes made to original datasets -->
