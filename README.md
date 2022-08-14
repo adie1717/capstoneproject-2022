@@ -39,6 +39,7 @@ Team members used Slack, shared Google files, and GitHub to communicate
   - Categorized by EV type and added columns for Requirements, Low Income eligibilty, Membership eligibilty, and One-time Use
 
 ## Database Model
+<--! This comment is hidden from public: Add ERD/excel database model and any bullet points -->
 
 ## Machine Learning Model
 - Takes in data from provisional model
@@ -50,5 +51,6 @@ Team members used Slack, shared Google files, and GitHub to communicate
   - Accuracy of nn model prediction of EV ownership
 
 ## Results
+<--! This comment is hidden from public: Add wireframe example and any visualizations or bullet points for presentation -->
 
 ## Summary
