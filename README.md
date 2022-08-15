@@ -11,7 +11,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 * [Summary](#summary)
 
 ### Resources
-- Data Source: CA_county_incentives.csv, [demographics.csv](https://datadryad.org/stash/dataset/doi:10.25338/B8P313), [ZEV_Sales.csv](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales)
+- Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv
 - Tools: Python 3.7.13, Jupyter Notebook, Excel
 
 ## Overview of Project
@@ -42,11 +42,11 @@ Team members used Slack, shared Google files, and GitHub to communicate
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
   - Categorized by EV type and added columns for Requirements, Low Income eligibilty, Membership eligibilty, and One-time Use
-- The demographics dataset contains socioeconomic data of EV owners in CA
+- The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners in CA
   - The dataset covers the years 2015 to 2018
     - [Research papers](https://www.sciencedirect.com/org/science/article/pii/S0144164722003397#:~:text=The%20literature%20identifies%20the%20following%20external%20factors%20as%20having%20the,and%20public%20visibility%2Fsocial%20norms.) indicate that the factors (in this dataset) for EV ownership haven't changed significantly
   - Cleaned null values and unnecessary columns
-- ZEV sales data contains number of EVs purchased in the state of CA
+- [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased in the state of CA
   - Contains data from 1998 to 2022, focusing on 2015 to present
   - Cleaned data to group by county and year, changed fuel types to match other dataset values
 
