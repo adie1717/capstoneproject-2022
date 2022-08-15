@@ -42,6 +42,13 @@ Team members used Slack, shared Google files, and GitHub to communicate
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
   - Categorized by EV type and added columns for Requirements, Low Income eligibilty, Membership eligibilty, and One-time Use
+- The demographics dataset contains socioeconomic data of EV owners in CA
+  - The dataset covers the years 2015 to 2018
+    - [Research papers](https://www.sciencedirect.com/org/science/article/pii/S0144164722003397#:~:text=The%20literature%20identifies%20the%20following%20external%20factors%20as%20having%20the,and%20public%20visibility%2Fsocial%20norms.) indicate that the factors (in this dataset) for EV ownership haven't changed significantly
+  - Cleaned null values and unnecessary columns
+- ZEV sales data contains number of EVs purchased in the state of CA
+  - Contains data from 1998 to 2022, focusing on 2015 to present
+  - Cleaned data to group by county and year, changed fuel types to match other dataset values
 
 ## Database Model
 <!-- This comment is hidden from public: Add ERD/excel database model and any bullet points -->
