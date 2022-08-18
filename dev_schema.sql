@@ -36,3 +36,6 @@ CREATE TABLE demographics (
   model VARCHAR,
   number_of_vehicles INT
  );
+
+SELECT * FROM demographics
+ORDER BY year, car_main;
