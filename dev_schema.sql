@@ -4,10 +4,10 @@ CREATE TABLE incentives (
   incentive_type VARCHAR,
   ev_type VARCHAR,
   max_amount INT,
-  requirements BOOLEAN,
-  low_income BOOLEAN,
-  customer BOOLEAN,
-  one_time BOOLEAN,
+  requirements INT/BOOL,
+  low_income INT/BOOL,
+  customer INT/BOOL,
+  one_time INT/BOOL,
   provider_name VARCHAR,
   start_date DATE,
   end_date DATE
@@ -16,14 +16,14 @@ CREATE TABLE incentives (
 CREATE TABLE demographics (
   year INT,
   car_main VARCHAR,
-  previous_evs BOOLEAN,
+  previous_evs INT/BOOL,
   household_income INT,
   importance_of_gge FLOAT,
-  homeowner BOOLEAN,
+  homeowner INT/BOOL,
   education INT,
   commute_distance FLOAT,
   age INT,
-  gender BOOL,
+  gender INT/BOOL,
   number_of_vehicles INT,
   annual_miles FLOAT
  );
