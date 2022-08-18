@@ -12,7 +12,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 
 ### Resources
 - Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv
-- Tools: Python 3.7.13, Jupyter Notebook, Excel
+- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides
 
 ## Overview of Project
 The purpose of this project is to analyze factors that contribute to EV purchases in the state of California. At a more granular level, we will be looking at factors within California counties to determine any relevant factors that contribute most to purchases. The primary data point we will be using for our analysis is the total amount of incentives offered by county. As supplementary factors, we will be looking at demographic data to identify any correlation between household income, commuter miles driven, etc, and EV ownership. Using this analysis we hope to be able to accurately predict whether someone will buy an EV and present to manufacturers the strengths and weaknesses in their market and potential improvements that can be made.
@@ -38,6 +38,7 @@ Team members used Slack, shared Google files, and GitHub to communicate
 
 ## Data Collection and Cleaning
 <!-- This comment is hidden from public: Add bullet points and explain changes made to original datasets -->
+All datasets are for the state of California and we focused our efforts on the years 2015 to present.
 - Found CA incentives data on [driveclean.ca.gov](https://driveclean.ca.gov/search-incentives)
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
@@ -45,10 +46,11 @@ Team members used Slack, shared Google files, and GitHub to communicate
 - The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners in CA
   - The dataset covers the years 2015 to 2018
     - [Research papers](https://www.sciencedirect.com/org/science/article/pii/S0144164722003397#:~:text=The%20literature%20identifies%20the%20following%20external%20factors%20as%20having%20the,and%20public%20visibility%2Fsocial%20norms.) indicate that the factors (in this dataset) for EV ownership haven't changed significantly
-  - Cleaned null values and unnecessary columns
+  - Removed null values and unnecessary columns
+  - Changed column names for SQL table and sampled 50% of cleaned data 
 - [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased in the state of CA
-  - Contains data from 1998 to 2022, focusing on 2015 to present
-  - Cleaned data to group by county and year, changed fuel types to match other dataset values
+  - Grouped by county and year
+  - Changed fuel types to match incentives dataset values
 
 ## Database Model
 <!-- This comment is hidden from public: Add ERD/excel database model and any bullet points -->
