@@ -19,7 +19,7 @@ CREATE TABLE demographics (
   previous_evs BOOLEAN,
   household_income INT,
   importance_of_gge FLOAT,
-  home_owner BOOLEAN,
+  homeowner BOOLEAN,
   education INT,
   commute_distance FLOAT,
   age INT,
