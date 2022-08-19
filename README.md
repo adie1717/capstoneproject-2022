@@ -12,7 +12,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 
 ### Resources
 - Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv
-- Tools: Python 3.7.13, Jupyter Notebook, Excel
+- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau
 
 ## Overview of Project
 The purpose of this project is to analyze factors that contribute to EV purchases in the state of California. At a more granular level, we will be looking at factors within California counties to determine any relevant factors that contribute most to purchases. The primary data point we will be using for our analysis is the total amount of incentives offered by county. As supplementary factors, we will be looking at demographic data to identify any correlation between household income, commuter miles driven, etc, and EV ownership. Using this analysis we hope to be able to accurately predict whether someone will buy an EV and present to manufacturers the strengths and weaknesses in their market and potential improvements that can be made.
