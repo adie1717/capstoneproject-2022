@@ -1,4 +1,4 @@
--- Make tables for 3 datasets
+-- Make tables for 4 datasets
 CREATE TABLE incentives (
   county VARCHAR,
   incentive_type VARCHAR,
@@ -8,7 +8,6 @@ CREATE TABLE incentives (
   low_income INT/BOOL,
   customer INT/BOOL,
   one_time INT/BOOL,
-  provider_name VARCHAR,
   start_date DATE,
   end_date DATE
  );
@@ -37,5 +36,23 @@ CREATE TABLE demographics (
   number_of_vehicles INT
  );
 
+ CREATE TABLE population (
+  county VARCHAR,
+  year INT,
+  population INT,
+  percent_change FLOAT,
+  number_change INT
+ );
+
+
+-- Create county_year_sales
+CREATE TABLE county_year_sales AS SELECT county, year,
+	SUM(number_of_vehicles) as number_sales
+	FROM sales
+	GROUP BY county, year
+	ORDER BY county asc;
+
+
+-- Sort demographics table by year and car_main
 SELECT * FROM demographics
 ORDER BY year, car_main;
