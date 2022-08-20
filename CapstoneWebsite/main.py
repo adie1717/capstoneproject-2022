@@ -18,19 +18,20 @@ with dataset:
     st.text("We found multiple datasets that provide data for us to analyze. We used various websites")
     
 
-
-
     sales_data = pd.read_csv("data/sales_db_copy.csv")
     st.write(sales_data.head())
 
-    number_of_vehicles_dist = pd.DataFrame(sales_data["number_of_vehicles"].value_counts())
+
+    st.subheader("Sales Data in California")
+    number_of_vehicles_dist = pd.DataFrame(sales_data["number_of_vehicles"].value_counts()).head()
     st.bar_chart(number_of_vehicles_dist)
 
 
 with features:
     st.header("The features I created")
 
-
+st.markdown("* **first feature:** I created this feature because of this... I calculated it using this logic..")
+st.markdown("* **second f)
 
 
 
