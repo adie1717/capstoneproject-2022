@@ -58,13 +58,22 @@ All datasets are for the state of California and we focused our efforts on the y
 ![ERD](ERD_mockup.png)
 
 ## Machine Learning Model
-- Takes in data from provisional model
-  - Dependent variable: Ownership/Sales
-  - Independent variables: Income, Incentives, Length of Commute, etc.
-    - 3 highly correlated factors to be determined by multiple linear regression analysis
+- In evaluating our data, we considered all points that ultimtely would support our topic; Do the number of incentives offered in counties of California contribute to EV sales? After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis. The demographics data would serve best as supporting data. 
+-Cleaning the data
+  - The initial reshaping of the data took place in Jupyter notebook. We read in each of the data sets, identified that there were several nulls that needed to be removed. In addition, we took a fraction of the data given that our demographics data set was large. 
+- AWS Relational Database and PG Admin
+  - After completion of the initial evalution, cleaning and reshaphing of the data, we created a relations database in AWS and connected it to our PG Admin account. This allowed us to joing our datasets and start correlating our metadata. 
+  - Our Dependent variables were: Ownership/Sales
+  - Our Independent variables were: Income, Incentives, Length of Commute, etc.
+    -The final 3 highest correlated factors were determined by multiple linear regression analysis
 - Outputs label(s) for input data
   - p-values of top 3 correlated factors
   - Accuracy of nn model prediction of EV ownership
+
+##Future Opportunities
+- Given more time for data exploration, one of the factors we would consieer is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county. 
+
+- Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract millenials and younger generations to bridge the gap. 
 
 ## Results
 <!-- This comment is hidden from public: Add wireframe example and any visualizations or bullet points for presentation -->
