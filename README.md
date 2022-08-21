@@ -12,7 +12,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 
 ### Resources
 - Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv
-- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides
+- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides, Streamlit
 
 
 ## Overview of Project
@@ -79,5 +79,7 @@ All datasets are for the state of California and we focused our efforts on the y
 <!-- This comment is hidden from public: Add wireframe example and any visualizations or bullet points for presentation -->
 
 ## Summary
+
+
 
 
