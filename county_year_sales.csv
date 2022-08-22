@@ -1,453 +1,453 @@
-county,year,number_sales
-Alameda,2022,9292
-Alameda,2017,7056
-Alameda,2019,11781
-Alameda,2016,5327
-Alameda,2015,5536
-Alameda,2020,9978
-Alameda,2021,15264
-Alameda,2018,12578
-Alpine,2021,11
-Alpine,2018,1
-Alpine,2017,1
-Alpine,2022,3
-Alpine,2019,3
-Alpine,2020,2
-Amador,2016,14
-Amador,2017,21
-Amador,2015,15
-Amador,2022,45
-Amador,2021,65
-Amador,2018,35
-Amador,2019,31
-Amador,2020,35
-Butte,2016,50
-Butte,2021,348
-Butte,2020,209
-Butte,2022,207
-Butte,2019,170
-Butte,2018,183
-Butte,2017,88
-Butte,2015,50
-Calaveras,2020,54
-Calaveras,2017,24
-Calaveras,2016,19
-Calaveras,2015,16
-Calaveras,2019,45
-Calaveras,2018,50
-Calaveras,2022,82
-Calaveras,2021,92
-Colusa,2016,2
-Colusa,2017,3
-Colusa,2018,8
-Colusa,2022,14
-Colusa,2020,5
-Colusa,2019,3
-Colusa,2015,3
-Colusa,2021,18
-Contra Costa,2019,5720
-Contra Costa,2021,9583
-Contra Costa,2022,5596
-Contra Costa,2017,3475
-Contra Costa,2018,6420
-Contra Costa,2015,2609
-Contra Costa,2016,2599
-Contra Costa,2020,5672
-Del Norte,2021,13
-Del Norte,2015,6
-Del Norte,2017,9
-Del Norte,2016,2
-Del Norte,2020,11
-Del Norte,2018,13
-Del Norte,2019,16
-Del Norte,2022,8
-El Dorado,2018,584
-El Dorado,2020,598
-El Dorado,2017,316
-El Dorado,2019,547
-El Dorado,2016,198
-El Dorado,2022,631
-El Dorado,2015,214
-El Dorado,2021,937
-Fresno,2015,541
-Fresno,2021,2364
-Fresno,2020,1172
-Fresno,2018,1107
-Fresno,2022,1616
-Fresno,2017,1058
-Fresno,2016,788
-Fresno,2019,1130
-Glenn,2015,6
-Glenn,2018,10
-Glenn,2016,7
-Glenn,2021,27
-Glenn,2022,15
-Glenn,2020,20
-Glenn,2019,11
-Glenn,2017,4
-Humboldt,2020,128
-Humboldt,2019,143
-Humboldt,2022,142
-Humboldt,2021,252
-Humboldt,2016,94
-Humboldt,2015,136
-Humboldt,2018,157
-Humboldt,2017,125
-Imperial,2021,212
-Imperial,2016,16
-Imperial,2017,31
-Imperial,2020,59
-Imperial,2019,57
-Imperial,2018,49
-Imperial,2022,136
-Imperial,2015,15
-Inyo,2020,22
-Inyo,2017,9
-Inyo,2022,16
-Inyo,2019,8
-Inyo,2018,16
-Inyo,2016,8
-Inyo,2021,35
-Inyo,2015,2
-Kern,2015,310
-Kern,2018,616
-Kern,2020,706
-Kern,2022,1079
-Kern,2017,380
-Kern,2016,305
-Kern,2019,594
-Kern,2021,1703
-Kings,2020,88
-Kings,2015,20
-Kings,2022,132
-Kings,2016,31
-Kings,2021,207
-Kings,2018,75
-Kings,2019,63
-Kings,2017,56
-Lake,2015,27
-Lake,2020,43
-Lake,2017,39
-Lake,2016,32
-Lake,2022,44
-Lake,2018,47
-Lake,2019,50
-Lake,2021,79
-Lassen,2020,3
-Lassen,2019,4
-Lassen,2022,5
-Lassen,2021,5
-Lassen,2015,3
-Lassen,2018,2
-Lassen,2017,2
-Lassen,2016,3
-Los Angeles,2022,43684
-Los Angeles,2021,67296
-Los Angeles,2015,16892
-Los Angeles,2019,38219
-Los Angeles,2016,21263
-Los Angeles,2018,39657
-Los Angeles,2017,26766
-Los Angeles,2020,38249
-Madera,2015,53
-Madera,2020,106
-Madera,2018,81
-Madera,2019,87
-Madera,2022,167
-Madera,2021,272
-Madera,2017,89
-Madera,2016,47
-Marin,2016,1139
-Marin,2019,2132
-Marin,2018,2228
-Marin,2021,3502
-Marin,2015,1105
-Marin,2022,1934
-Marin,2017,1468
-Marin,2020,2260
-Mariposa,2015,4
-Mariposa,2022,14
-Mariposa,2019,15
-Mariposa,2020,14
-Mariposa,2021,30
-Mariposa,2017,5
-Mariposa,2016,9
-Mariposa,2018,27
-Mendocino,2018,159
-Mendocino,2021,190
-Mendocino,2017,99
-Mendocino,2022,106
-Mendocino,2015,96
-Mendocino,2020,112
-Mendocino,2019,107
-Mendocino,2016,77
-Merced,2018,147
-Merced,2017,92
-Merced,2020,169
-Merced,2022,294
-Merced,2021,429
-Merced,2015,47
-Merced,2019,149
-Merced,2016,59
-Modoc,2017,1
-Modoc,2021,3
-Mono,2020,22
-Mono,2016,6
-Mono,2017,3
-Mono,2018,11
-Mono,2019,11
-Mono,2021,37
-Mono,2022,19
-Mono,2015,3
-Monterey,2021,1344
-Monterey,2020,677
-Monterey,2016,300
-Monterey,2015,274
-Monterey,2022,819
-Monterey,2018,678
-Monterey,2017,395
-Monterey,2019,582
-Napa,2015,220
-Napa,2017,286
-Napa,2019,460
-Napa,2020,499
-Napa,2022,525
-Napa,2016,234
-Napa,2021,911
-Napa,2018,503
-Nevada,2020,245
-Nevada,2021,373
-Nevada,2015,79
-Nevada,2016,84
-Nevada,2022,210
-Nevada,2019,159
-Nevada,2017,97
-Nevada,2018,162
-Orange,2016,8951
-Orange,2017,11398
-Orange,2021,31917
-Orange,2018,19755
-Orange,2019,19066
-Orange,2022,20443
-Orange,2020,19104
-Orange,2015,7329
-Placer,2020,1465
-Placer,2016,480
-Placer,2017,622
-Placer,2022,1802
-Placer,2021,2699
-Placer,2018,1179
-Placer,2019,1235
-Placer,2015,456
-Plumas,2020,14
-Plumas,2015,1
-Plumas,2018,8
-Plumas,2021,34
-Plumas,2017,4
-Plumas,2019,7
-Plumas,2022,13
-Plumas,2016,5
-Riverside,2019,4719
-Riverside,2020,5135
-Riverside,2017,2699
-Riverside,2018,4458
-Riverside,2022,7472
-Riverside,2015,1608
-Riverside,2016,1857
-Riverside,2021,11097
-Sacramento,2018,3283
-Sacramento,2017,1639
-Sacramento,2022,4028
-Sacramento,2019,3211
-Sacramento,2015,1081
-Sacramento,2020,3406
-Sacramento,2021,6212
-Sacramento,2016,1109
-San Benito,2016,49
-San Benito,2015,46
-San Benito,2020,140
-San Benito,2019,121
-San Benito,2022,215
-San Benito,2018,103
-San Benito,2021,299
-San Benito,2017,89
-San Bernardino,2022,5652
-San Bernardino,2019,3887
-San Bernardino,2020,3946
-San Bernardino,2021,8355
-San Bernardino,2017,2076
-San Bernardino,2018,3621
-San Bernardino,2016,1454
-San Bernardino,2015,1265
-San Diego,2021,21630
-San Diego,2018,11768
-San Diego,2020,12219
-San Diego,2017,6453
-San Diego,2019,11114
-San Diego,2015,4824
-San Diego,2022,13596
-San Diego,2016,5218
-San Francisco,2017,2363
-San Francisco,2016,1900
-San Francisco,2020,4635
-San Francisco,2019,3773
-San Francisco,2021,6812
-San Francisco,2022,3871
-San Francisco,2018,4148
-San Francisco,2015,1711
-San Joaquin,2016,433
-San Joaquin,2022,2060
-San Joaquin,2021,3030
-San Joaquin,2018,1160
-San Joaquin,2015,350
-San Joaquin,2017,580
-San Joaquin,2019,1235
-San Joaquin,2020,1413
-San Luis Obispo,2020,785
-San Luis Obispo,2019,641
-San Luis Obispo,2022,778
-San Luis Obispo,2016,265
-San Luis Obispo,2018,740
-San Luis Obispo,2021,1343
-San Luis Obispo,2017,372
-San Luis Obispo,2015,271
-San Mateo,2016,3001
-San Mateo,2017,3416
-San Mateo,2022,7658
-San Mateo,2020,5489
-San Mateo,2021,8250
-San Mateo,2019,6042
-San Mateo,2015,2827
-San Mateo,2018,6827
-Santa Barbara,2015,347
-Santa Barbara,2020,1287
-Santa Barbara,2016,510
-Santa Barbara,2021,1948
-Santa Barbara,2019,946
-Santa Barbara,2017,655
-Santa Barbara,2022,1084
-Santa Barbara,2018,1081
-Santa Clara,2017,12688
-Santa Clara,2021,22826
-Santa Clara,2019,19906
-Santa Clara,2020,15281
-Santa Clara,2022,13876
-Santa Clara,2015,9821
-Santa Clara,2018,22311
-Santa Clara,2016,10482
-Santa Cruz,2017,682
-Santa Cruz,2020,1006
-Santa Cruz,2018,1088
-Santa Cruz,2022,790
-Santa Cruz,2021,1508
-Santa Cruz,2015,591
-Santa Cruz,2019,964
-Santa Cruz,2016,573
-Shasta,2020,151
-Shasta,2017,67
-Shasta,2015,36
-Shasta,2022,207
-Shasta,2021,359
-Shasta,2016,49
-Shasta,2018,127
-Shasta,2019,104
-Sierra,2022,2
-Sierra,2020,3
-Sierra,2021,1
-Sierra,2015,1
-Siskiyou,2016,6
-Siskiyou,2022,24
-Siskiyou,2021,37
-Siskiyou,2017,14
-Siskiyou,2015,7
-Siskiyou,2019,11
-Siskiyou,2018,14
-Siskiyou,2020,14
-Solano,2016,389
-Solano,2017,528
-Solano,2018,972
-Solano,2022,1175
-Solano,2015,445
-Solano,2020,960
-Solano,2019,986
-Solano,2021,2082
-Sonoma,2021,2701
-Sonoma,2015,957
-Sonoma,2020,1609
-Sonoma,2016,997
-Sonoma,2017,1595
-Sonoma,2018,2073
-Sonoma,2019,1629
-Sonoma,2022,1465
-Stanislaus,2015,205
-Stanislaus,2016,252
-Stanislaus,2018,432
-Stanislaus,2020,531
-Stanislaus,2017,299
-Stanislaus,2019,440
-Stanislaus,2021,1143
-Stanislaus,2022,790
-Sutter,2016,14
-Sutter,2015,23
-Sutter,2022,149
-Sutter,2019,75
-Sutter,2020,86
-Sutter,2017,30
-Sutter,2018,55
-Sutter,2021,222
-Tehama,2018,13
-Tehama,2021,73
-Tehama,2020,31
-Tehama,2022,32
-Tehama,2015,4
-Tehama,2017,7
-Tehama,2019,26
-Tehama,2016,5
-Trinity,2015,4
-Trinity,2018,4
-Trinity,2019,5
-Trinity,2016,3
-Trinity,2020,8
-Trinity,2022,7
-Trinity,2017,3
-Trinity,2021,8
-Tulare,2022,384
-Tulare,2021,608
-Tulare,2016,93
-Tulare,2015,66
-Tulare,2019,226
-Tulare,2018,216
-Tulare,2020,290
-Tulare,2017,251
-Tuolumne,2015,16
-Tuolumne,2022,60
-Tuolumne,2019,45
-Tuolumne,2016,12
-Tuolumne,2017,22
-Tuolumne,2021,91
-Tuolumne,2020,50
-Tuolumne,2018,38
-Ventura,2016,1402
-Ventura,2022,3631
-Ventura,2018,3096
-Ventura,2015,1169
-Ventura,2017,1831
-Ventura,2020,2965
-Ventura,2021,5352
-Ventura,2019,2916
-Yolo,2021,976
-Yolo,2020,545
-Yolo,2022,587
-Yolo,2016,225
-Yolo,2015,222
-Yolo,2018,638
-Yolo,2017,331
-Yolo,2019,600
-Yuba,2019,59
-Yuba,2022,95
-Yuba,2015,13
-Yuba,2021,125
-Yuba,2016,15
-Yuba,2018,41
-Yuba,2020,63
-Yuba,2017,21
+county,year,number_sales,sales_percentage
+Alameda,2022,9292,5.85
+Alameda,2018,12578,8.12
+Alameda,2021,15264,6.17
+Alameda,2020,9978,6.94
+Alameda,2016,5327,7.35
+Alameda,2019,11781,8.05
+Alameda,2017,7056,7.61
+Alameda,2015,5536,8.65
+Alpine,2018,1,0.0
+Alpine,2017,1,0.0
+Alpine,2022,3,0.0
+Alpine,2020,2,0.0
+Alpine,2021,11,0.0
+Alpine,2019,3,0.0
+Amador,2020,35,0.02
+Amador,2018,35,0.02
+Amador,2022,45,0.03
+Amador,2015,15,0.02
+Amador,2017,21,0.02
+Amador,2019,31,0.02
+Amador,2016,14,0.02
+Amador,2021,65,0.03
+Butte,2020,209,0.15
+Butte,2016,50,0.07
+Butte,2022,207,0.13
+Butte,2015,50,0.08
+Butte,2021,348,0.14
+Butte,2019,170,0.12
+Butte,2018,183,0.12
+Butte,2017,88,0.09
+Calaveras,2022,82,0.05
+Calaveras,2021,92,0.04
+Calaveras,2019,45,0.03
+Calaveras,2020,54,0.04
+Calaveras,2018,50,0.03
+Calaveras,2016,19,0.03
+Calaveras,2017,24,0.03
+Calaveras,2015,16,0.03
+Colusa,2019,3,0.0
+Colusa,2016,2,0.0
+Colusa,2017,3,0.0
+Colusa,2015,3,0.0
+Colusa,2022,14,0.01
+Colusa,2021,18,0.01
+Colusa,2020,5,0.0
+Colusa,2018,8,0.01
+Contra Costa,2016,2599,3.59
+Contra Costa,2015,2609,4.08
+Contra Costa,2017,3475,3.75
+Contra Costa,2020,5672,3.94
+Contra Costa,2018,6420,4.15
+Contra Costa,2019,5720,3.91
+Contra Costa,2022,5596,3.52
+Contra Costa,2021,9583,3.87
+Del Norte,2017,9,0.01
+Del Norte,2018,13,0.01
+Del Norte,2021,13,0.01
+Del Norte,2015,6,0.01
+Del Norte,2019,16,0.01
+Del Norte,2020,11,0.01
+Del Norte,2016,2,0.0
+Del Norte,2022,8,0.01
+El Dorado,2020,598,0.42
+El Dorado,2021,937,0.38
+El Dorado,2019,547,0.37
+El Dorado,2015,214,0.33
+El Dorado,2018,584,0.38
+El Dorado,2016,198,0.27
+El Dorado,2022,631,0.4
+El Dorado,2017,316,0.34
+Fresno,2020,1172,0.82
+Fresno,2015,541,0.85
+Fresno,2021,2364,0.96
+Fresno,2016,788,1.09
+Fresno,2022,1616,1.02
+Fresno,2018,1107,0.71
+Fresno,2019,1130,0.77
+Fresno,2017,1058,1.14
+Glenn,2020,20,0.01
+Glenn,2015,6,0.01
+Glenn,2021,27,0.01
+Glenn,2022,15,0.01
+Glenn,2018,10,0.01
+Glenn,2019,11,0.01
+Glenn,2017,4,0.0
+Glenn,2016,7,0.01
+Humboldt,2022,142,0.09
+Humboldt,2016,94,0.13
+Humboldt,2020,128,0.09
+Humboldt,2019,143,0.1
+Humboldt,2018,157,0.1
+Humboldt,2021,252,0.1
+Humboldt,2017,125,0.13
+Humboldt,2015,136,0.21
+Imperial,2016,16,0.02
+Imperial,2019,57,0.04
+Imperial,2018,49,0.03
+Imperial,2022,136,0.09
+Imperial,2021,212,0.09
+Imperial,2015,15,0.02
+Imperial,2017,31,0.03
+Imperial,2020,59,0.04
+Inyo,2019,8,0.01
+Inyo,2022,16,0.01
+Inyo,2015,2,0.0
+Inyo,2017,9,0.01
+Inyo,2016,8,0.01
+Inyo,2020,22,0.02
+Inyo,2021,35,0.01
+Inyo,2018,16,0.01
+Kern,2022,1079,0.68
+Kern,2016,305,0.42
+Kern,2019,594,0.41
+Kern,2020,706,0.49
+Kern,2021,1703,0.69
+Kern,2018,616,0.4
+Kern,2015,310,0.48
+Kern,2017,380,0.41
+Kings,2015,20,0.03
+Kings,2018,75,0.05
+Kings,2022,132,0.08
+Kings,2020,88,0.06
+Kings,2017,56,0.06
+Kings,2016,31,0.04
+Kings,2021,207,0.08
+Kings,2019,63,0.04
+Lake,2021,79,0.03
+Lake,2022,44,0.03
+Lake,2016,32,0.04
+Lake,2019,50,0.03
+Lake,2015,27,0.04
+Lake,2018,47,0.03
+Lake,2020,43,0.03
+Lake,2017,39,0.04
+Lassen,2019,4,0.0
+Lassen,2015,3,0.0
+Lassen,2020,3,0.0
+Lassen,2021,5,0.0
+Lassen,2017,2,0.0
+Lassen,2022,5,0.0
+Lassen,2016,3,0.0
+Lassen,2018,2,0.0
+Los Angeles,2017,26766,28.86
+Los Angeles,2015,16892,26.4
+Los Angeles,2018,39657,25.61
+Los Angeles,2022,43684,27.51
+Los Angeles,2016,21263,29.34
+Los Angeles,2021,67296,27.21
+Los Angeles,2019,38219,26.13
+Los Angeles,2020,38249,26.6
+Madera,2022,167,0.11
+Madera,2021,272,0.11
+Madera,2020,106,0.07
+Madera,2015,53,0.08
+Madera,2016,47,0.06
+Madera,2019,87,0.06
+Madera,2018,81,0.05
+Madera,2017,89,0.1
+Marin,2017,1468,1.58
+Marin,2021,3502,1.42
+Marin,2019,2132,1.46
+Marin,2018,2228,1.44
+Marin,2015,1105,1.73
+Marin,2022,1934,1.22
+Marin,2016,1139,1.57
+Marin,2020,2260,1.57
+Mariposa,2017,5,0.01
+Mariposa,2019,15,0.01
+Mariposa,2021,30,0.01
+Mariposa,2020,14,0.01
+Mariposa,2018,27,0.02
+Mariposa,2015,4,0.01
+Mariposa,2022,14,0.01
+Mariposa,2016,9,0.01
+Mendocino,2020,112,0.08
+Mendocino,2022,106,0.07
+Mendocino,2015,96,0.15
+Mendocino,2021,190,0.08
+Mendocino,2018,159,0.1
+Mendocino,2017,99,0.11
+Mendocino,2019,107,0.07
+Mendocino,2016,77,0.11
+Merced,2020,169,0.12
+Merced,2018,147,0.09
+Merced,2019,149,0.1
+Merced,2015,47,0.07
+Merced,2016,59,0.08
+Merced,2017,92,0.1
+Merced,2022,294,0.19
+Merced,2021,429,0.17
+Modoc,2021,3,0.0
+Modoc,2017,1,0.0
+Mono,2019,11,0.01
+Mono,2022,19,0.01
+Mono,2021,37,0.01
+Mono,2017,3,0.0
+Mono,2020,22,0.02
+Mono,2015,3,0.0
+Mono,2018,11,0.01
+Mono,2016,6,0.01
+Monterey,2022,819,0.52
+Monterey,2019,582,0.4
+Monterey,2018,678,0.44
+Monterey,2021,1344,0.54
+Monterey,2017,395,0.43
+Monterey,2015,274,0.43
+Monterey,2016,300,0.41
+Monterey,2020,677,0.47
+Napa,2022,525,0.33
+Napa,2020,499,0.35
+Napa,2016,234,0.32
+Napa,2018,503,0.32
+Napa,2021,911,0.37
+Napa,2017,286,0.31
+Napa,2015,220,0.34
+Napa,2019,460,0.31
+Nevada,2020,245,0.17
+Nevada,2021,373,0.15
+Nevada,2019,159,0.11
+Nevada,2015,79,0.12
+Nevada,2018,162,0.1
+Nevada,2022,210,0.13
+Nevada,2017,97,0.1
+Nevada,2016,84,0.12
+Orange,2015,7329,11.46
+Orange,2022,20443,12.87
+Orange,2020,19104,13.29
+Orange,2018,19755,12.76
+Orange,2017,11398,12.29
+Orange,2021,31917,12.9
+Orange,2016,8951,12.35
+Orange,2019,19066,13.03
+Placer,2016,480,0.66
+Placer,2015,456,0.71
+Placer,2019,1235,0.84
+Placer,2022,1802,1.13
+Placer,2017,622,0.67
+Placer,2018,1179,0.76
+Placer,2020,1465,1.02
+Placer,2021,2699,1.09
+Plumas,2019,7,0.0
+Plumas,2015,1,0.0
+Plumas,2021,34,0.01
+Plumas,2017,4,0.0
+Plumas,2022,13,0.01
+Plumas,2020,14,0.01
+Plumas,2018,8,0.01
+Plumas,2016,5,0.01
+Riverside,2018,4458,2.88
+Riverside,2021,11097,4.49
+Riverside,2016,1857,2.56
+Riverside,2022,7472,4.71
+Riverside,2020,5135,3.57
+Riverside,2017,2699,2.91
+Riverside,2015,1608,2.51
+Riverside,2019,4719,3.23
+Sacramento,2017,1639,1.77
+Sacramento,2016,1109,1.53
+Sacramento,2022,4028,2.54
+Sacramento,2015,1081,1.69
+Sacramento,2021,6212,2.51
+Sacramento,2018,3283,2.12
+Sacramento,2019,3211,2.2
+Sacramento,2020,3406,2.37
+San Benito,2018,103,0.07
+San Benito,2015,46,0.07
+San Benito,2016,49,0.07
+San Benito,2017,89,0.1
+San Benito,2021,299,0.12
+San Benito,2019,121,0.08
+San Benito,2020,140,0.1
+San Benito,2022,215,0.14
+San Bernardino,2022,5652,3.56
+San Bernardino,2017,2076,2.24
+San Bernardino,2020,3946,2.74
+San Bernardino,2018,3621,2.34
+San Bernardino,2019,3887,2.66
+San Bernardino,2015,1265,1.98
+San Bernardino,2016,1454,2.01
+San Bernardino,2021,8355,3.38
+San Diego,2018,11768,7.6
+San Diego,2019,11114,7.6
+San Diego,2022,13596,8.56
+San Diego,2020,12219,8.5
+San Diego,2016,5218,7.2
+San Diego,2021,21630,8.75
+San Diego,2017,6453,6.96
+San Diego,2015,4824,7.54
+San Francisco,2018,4148,2.68
+San Francisco,2021,6812,2.75
+San Francisco,2020,4635,3.22
+San Francisco,2015,1711,2.67
+San Francisco,2017,2363,2.55
+San Francisco,2022,3871,2.44
+San Francisco,2019,3773,2.58
+San Francisco,2016,1900,2.62
+San Joaquin,2021,3030,1.23
+San Joaquin,2022,2060,1.3
+San Joaquin,2015,350,0.55
+San Joaquin,2019,1235,0.84
+San Joaquin,2020,1413,0.98
+San Joaquin,2017,580,0.63
+San Joaquin,2018,1160,0.75
+San Joaquin,2016,433,0.6
+San Luis Obispo,2016,265,0.37
+San Luis Obispo,2020,785,0.55
+San Luis Obispo,2019,641,0.44
+San Luis Obispo,2018,740,0.48
+San Luis Obispo,2021,1343,0.54
+San Luis Obispo,2015,271,0.42
+San Luis Obispo,2017,372,0.4
+San Luis Obispo,2022,778,0.49
+San Mateo,2016,3001,4.14
+San Mateo,2021,8250,3.34
+San Mateo,2020,5489,3.82
+San Mateo,2019,6042,4.13
+San Mateo,2018,6827,4.41
+San Mateo,2022,7658,4.82
+San Mateo,2015,2827,4.42
+San Mateo,2017,3416,3.68
+Santa Barbara,2019,946,0.65
+Santa Barbara,2022,1084,0.68
+Santa Barbara,2020,1287,0.9
+Santa Barbara,2021,1948,0.79
+Santa Barbara,2015,347,0.54
+Santa Barbara,2017,655,0.71
+Santa Barbara,2018,1081,0.7
+Santa Barbara,2016,510,0.7
+Santa Clara,2015,9821,15.35
+Santa Clara,2022,13876,8.74
+Santa Clara,2016,10482,14.47
+Santa Clara,2018,22311,14.41
+Santa Clara,2019,19906,13.61
+Santa Clara,2021,22826,9.23
+Santa Clara,2020,15281,10.63
+Santa Clara,2017,12688,13.68
+Santa Cruz,2021,1508,0.61
+Santa Cruz,2016,573,0.79
+Santa Cruz,2019,964,0.66
+Santa Cruz,2017,682,0.74
+Santa Cruz,2022,790,0.5
+Santa Cruz,2015,591,0.92
+Santa Cruz,2020,1006,0.7
+Santa Cruz,2018,1088,0.7
+Shasta,2015,36,0.06
+Shasta,2022,207,0.13
+Shasta,2016,49,0.07
+Shasta,2021,359,0.15
+Shasta,2020,151,0.11
+Shasta,2018,127,0.08
+Shasta,2019,104,0.07
+Shasta,2017,67,0.07
+Sierra,2015,1,0.0
+Sierra,2021,1,0.0
+Sierra,2022,2,0.0
+Sierra,2020,3,0.0
+Siskiyou,2020,14,0.01
+Siskiyou,2021,37,0.01
+Siskiyou,2022,24,0.02
+Siskiyou,2017,14,0.02
+Siskiyou,2015,7,0.01
+Siskiyou,2016,6,0.01
+Siskiyou,2018,14,0.01
+Siskiyou,2019,11,0.01
+Solano,2017,528,0.57
+Solano,2022,1175,0.74
+Solano,2020,960,0.67
+Solano,2021,2082,0.84
+Solano,2016,389,0.54
+Solano,2018,972,0.63
+Solano,2015,445,0.7
+Solano,2019,986,0.67
+Sonoma,2021,2701,1.09
+Sonoma,2017,1595,1.72
+Sonoma,2019,1629,1.11
+Sonoma,2022,1465,0.92
+Sonoma,2016,997,1.38
+Sonoma,2018,2073,1.34
+Sonoma,2020,1609,1.12
+Sonoma,2015,957,1.5
+Stanislaus,2017,299,0.32
+Stanislaus,2019,440,0.3
+Stanislaus,2018,432,0.28
+Stanislaus,2020,531,0.37
+Stanislaus,2022,790,0.5
+Stanislaus,2021,1143,0.46
+Stanislaus,2016,252,0.35
+Stanislaus,2015,205,0.32
+Sutter,2017,30,0.03
+Sutter,2020,86,0.06
+Sutter,2016,14,0.02
+Sutter,2015,23,0.04
+Sutter,2019,75,0.05
+Sutter,2021,222,0.09
+Sutter,2022,149,0.09
+Sutter,2018,55,0.04
+Tehama,2021,73,0.03
+Tehama,2016,5,0.01
+Tehama,2017,7,0.01
+Tehama,2022,32,0.02
+Tehama,2018,13,0.01
+Tehama,2015,4,0.01
+Tehama,2019,26,0.02
+Tehama,2020,31,0.02
+Trinity,2021,8,0.0
+Trinity,2017,3,0.0
+Trinity,2019,5,0.0
+Trinity,2018,4,0.0
+Trinity,2015,4,0.01
+Trinity,2016,3,0.0
+Trinity,2022,7,0.0
+Trinity,2020,8,0.01
+Tulare,2015,66,0.1
+Tulare,2017,251,0.27
+Tulare,2019,226,0.15
+Tulare,2021,608,0.25
+Tulare,2016,93,0.13
+Tulare,2022,384,0.24
+Tulare,2020,290,0.2
+Tulare,2018,216,0.14
+Tuolumne,2016,12,0.02
+Tuolumne,2015,16,0.03
+Tuolumne,2019,45,0.03
+Tuolumne,2021,91,0.04
+Tuolumne,2018,38,0.02
+Tuolumne,2022,60,0.04
+Tuolumne,2020,50,0.03
+Tuolumne,2017,22,0.02
+Ventura,2018,3096,2.0
+Ventura,2021,5352,2.16
+Ventura,2022,3631,2.29
+Ventura,2020,2965,2.06
+Ventura,2019,2916,1.99
+Ventura,2015,1169,1.83
+Ventura,2016,1402,1.93
+Ventura,2017,1831,1.97
+Yolo,2015,222,0.35
+Yolo,2022,587,0.37
+Yolo,2021,976,0.39
+Yolo,2019,600,0.41
+Yolo,2016,225,0.31
+Yolo,2018,638,0.41
+Yolo,2020,545,0.38
+Yolo,2017,331,0.36
+Yuba,2017,21,0.02
+Yuba,2022,95,0.06
+Yuba,2021,125,0.05
+Yuba,2015,13,0.02
+Yuba,2019,59,0.04
+Yuba,2016,15,0.02
+Yuba,2020,63,0.04
+Yuba,2018,41,0.03

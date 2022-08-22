@@ -53,6 +53,14 @@ CREATE TABLE county_year_sales AS SELECT county, year,
 	ORDER BY county asc;
 
 
+-- Join county_year_sales and population
+CREATE TABLE sales_pop AS
+(SELECT cys.county, cys.year, cys.number_sales, cys.sales_percentage, pop.population, pop.pop_percentage
+FROM county_year_sales AS cys
+RIGHT JOIN population AS pop
+ON cys.county=pop.county AND cys.year=pop.year);
+
+
 -- Sort demographics table by year and car_main
 SELECT * FROM demographics
 ORDER BY year, car_main;
