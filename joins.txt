@@ -1,13 +1,13 @@
 Join sales + incentives + demo + pop
-- year, county, population, percentage pop (county/CA),
+- county, year, population, percentage pop (county/CA),
 	total sales, percentage sales (county/CA),
 	total incentives, max amount, avg demo factors
 
 For county_year_incentives I need to do a for loop
 - FOR incentive in incentives:
 	IF start_date <= 1/1/2015 AND end_date >= 12/31/2016 +1 to year and county's incentive count (repeat through 2022)
-- Create rows for 'missing' counties with state-wide incentives
+- Add state-wide incentives to all counties
 - Max amount needs to add state-wide incentives, can only include one customer requirement
 
 avg_demo_year
-- Data doesn't contain county so we would have to apply to all
+- Data doesn't contain county so we would have to apply to all (for the year)
