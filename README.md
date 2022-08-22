@@ -1,3 +1,4 @@
+
 # California EV Dreams
 A collaborative project to determine what factors drive adoption of electric vehicles in California.
 
@@ -12,7 +13,7 @@ A collaborative project to determine what factors drive adoption of electric veh
 
 ### Resources
 - Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv, pop_db.csv
-- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides
+- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides, HTML, CSS
 
 ## Overview of Project
 The purpose of this project is to analyze factors that contribute to EV purchases in the state of California. At a more granular level, we will be looking at factors within California counties to determine any relevant factors that contribute most to purchases. The primary data point we will be using for our analysis is the total amount of incentives offered by county. As supplementary factors, we will be looking at demographic data to identify any correlation between household income, commuter miles driven, etc, and EV ownership. Using this analysis we hope to be able to accurately predict whether someone will buy an EV and present to manufacturers the strengths and weaknesses in their market and potential improvements that can be made.
@@ -71,16 +72,26 @@ All datasets are for the state of California and we focused our efforts on the y
       - Calculate non-customer max amount, add in max customer incentive
 
 ## Machine Learning Model
-- Takes in data from provisional model
-  - Dependent variable: Ownership/Sales
-  - Independent variables: Income, Incentives, Length of Commute, etc.
-    - 3 highly correlated factors to be determined by multiple linear regression analysis
+- In evaluating our data, we considered all points that ultimtely would support our topic; Do the number of incentives offered in counties of California contribute to EV sales? After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis. The demographics data would serve best as supporting data. 
+-Cleaning the data
+  - The initial reshaping of the data took place in Jupyter notebook. We read in each of the data sets, identified that there were several nulls that needed to be removed. In addition, we took a fraction of the data given that our demographics data set was large. 
+- AWS Relational Database and PG Admin
+  - After completion of the initial evalution, cleaning and reshaphing of the data, we created a relations database in AWS and connected it to our PG Admin account. This allowed us to joing our datasets and start correlating our metadata. 
+  - Our Dependent variables were: Ownership/Sales
+  - Our Independent variables were: Income, Incentives, Length of Commute, etc.
+    -The final 3 highest correlated factors were determined by multiple linear regression analysis
 - Outputs label(s) for input data
   - p-values of top 3 correlated factors
   - Accuracy of nn model prediction of EV ownership
 - Due to COVID-19 creating large variance, we will not include 2020-2021 in our analysis
 
+## Future Opportunities
+- Given more time for data exploration, one of the factors we would consieer is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county. 
+- Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract millenials and younger generations to bridge the gap. 
+
 ## Results
 <!-- This comment is hidden from public: Add wireframe example and any visualizations or bullet points for presentation -->
 
 ## Summary
+
+
