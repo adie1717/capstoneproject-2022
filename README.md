@@ -64,6 +64,11 @@ All datasets are for the state of California and we focused our efforts on the y
 - Planning to join sales, population, demographics, and incentives by year and county
   - Demographics are not separated by county and only account for 2015-2018
     - We would apply averages statewide and mention the gap in the dataset
+  - Incentives by county and year will require conditonal looping
+    - Incentives need to be checked and added to count for county and year
+    - State-wide incentives will be added to counts for all counties in existing years
+    - Max amount needs to be calculated for county and year
+      - Calculate non-customer max amount, add in max customer incentive
 
 ## Machine Learning Model
 - Takes in data from provisional model
