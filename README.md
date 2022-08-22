@@ -12,7 +12,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 
 ### Resources
 - Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv
-- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides, Streamlit
+- Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides, HTML
 
 
 ## Overview of Project
@@ -55,6 +55,19 @@ All datasets are for the state of California and we focused our efforts on the y
 
 ## Database Model
 <!-- This comment is hidden from public: Add ERD/excel database model and any bullet points -->
+Our collective database includes five tables, created from multiple datasets which which contain data on electric vehicles in California. The database was created in PostgreSQL (PGadmin), and is now stored on Amazon Web Services RDS (free tier). This allows any team member to link to - and update - the collective database. We have multiple joins within SQL and Jupyter Notebook Machine Learning model.
+
+- The database stores our static data that we will use during the project. Our static data is stored in Amazon Web Services Relational Database Service, and is used to host the Postgres database that is used to run the machine learning model.
+
+- The database interfaces directly with the machine learning model, and is stored on AWS RD. 
+
+- Our database includes 5 tables, PostgresSQL - was used to create these tables and joining was preprocessed for datasets for the ML model. 
+![database](https://user-images.githubusercontent.com/100455534/185841678-2253a8a7-645c-485f-9ae9-d92d4848bfaf.png)
+
+- The data is connected via schalchemy to the machine learning model. 
+
+
+
 ![ERD](ERD_mockup.png)
 
 ## Machine Learning Model
