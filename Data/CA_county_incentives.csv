@@ -1,189 +1,189 @@
-County,Incentive Type,EV Type,Max Amount,Requirements,Low Income,Customer,One-time Use,Program Name or Provider,Start Date,End Date
-Alameda,Rebate,BEV,2000,Yes,No,,Yes,Alameda Municipal Power,,
-Alameda,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Alameda,Grant,Any,5000,Yes,Yes,,Yes,Clean Vehicle Assistance Program,6/1/2018,
-Alameda,Toll discount,CAV,7,Yes,No,,No,California Air�Resources Board,1/1/2019,
-Alameda,Rebate,EV charger,800,Yes,No,,Yes,Alameda Municipal Power,,
-Alameda,Rebate,BEV,1000,Yes,Yes,,Yes,Alameda Municipal Power,,
-All,Reward,BEV,750,Yes,No,,No,California Clean Fuel Reward,11/17/2020,
-All,Rebate,FCEV,4500,Yes,No,,No,CVRP,2009,
-All,Rebate,BEV,2000,Yes,No,,Yes,CVRP,2009,
-All,Rebate,PHEV,1000,Yes,No,,Yes,CVRP,2009,
-All,Rebate,Any,2500,Yes,Yes,,No,CVRP,2009,
-All,Tax Credit,Any,7500,Yes,No,,Yes,IRS,1/1/2010,12/31/2021
-All,HOV,Any,,Yes,No,,No,DMV,1/1/2020,
-All,Tax Credit,FCEV,8000,Yes,No,,Yes,IRS,1/1/2010,12/31/2021
-All,Reward,PHEV,750,Yes,No,,No,California Clean Fuel Reward,11/17/2020,
-Contra Costa,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Contra Costa,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Contra Costa,Toll discount,CAV,7,Yes,No,,No,California Air�Resources Board,1/1/2019,
-El Dorado,Rebate,Any,599,Yes,No,,No,El Dorado Air Quality Management District,,
-Fresno,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Fresno,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Fresno,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Fresno,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Fresno,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Fresno,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Imperial,Rebate,EV charger,500,Yes,No,,Yes,Imperial Irrigation District,,
-Inyo,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Inyo,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Kern,Voucher,ZEV,4000,Yes,No,,No,Eastern Kern Air Pollution Control District,10/1/2016,
-Kern,Voucher,PZEV,2000,Yes,No,,No,Eastern Kern Air Pollution Control District,10/1/2016,
-Kern,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kern,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kern,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kern,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kern,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kern,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Kern,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Kern,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Kings,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kings,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kings,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kings,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kings,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Kings,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Lassen,Rebate,BEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Lassen,Rebate,PHEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Los Angeles,Voucher,BEV,3000,Yes,No,,Yes,Lancaster Choice Energy,10/14/2019,6/30/2020
-Los Angeles,Rebate,Any,1500,Yes,No,,Yes,Los Angeles Department of Water and Power,4/1/2018,
-Los Angeles,Rebate,Any,1000,Yes,Yes,,Yes,Los Angeles Department of Water and Power,4/1/2018,
-Los Angeles,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Los Angeles,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Los Angeles,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Los Angeles,Rebate,EV charger,250,Yes,No,,Yes,South Coast Air Quality Management District,12/10/2021,
-Los Angeles,Rebate,EV charger,250,Yes,Yes,,No,South Coast Air Quality Management District,12/10/2021,
-Los Angeles,Free parking,BEV,6.5,Yes,No,,No,City of Hermosa Beach,,
-Los Angeles,Free parking,CAV,5,Yes,No,,No,City of Santa Monica,,
-Los Angeles,Voucher,PHEV,3000,Yes,No,,Yes,Lancaster Choice Energy,10/14/2019,6/30/2020
-Los Angeles,Rebate,Any,1500,Yes,Yes,,Yes,Antelope Valley Air Quality Management District,,
-Los Angeles,Rebate,Any,500,Yes,No,,Yes,Pasadena Water and Power,,
-Los Angeles,Rebate,Any,1000,Yes,Yes,,Yes,Pasadena Water and Power,,
-Los Angeles,Rebate,EV charger,150,Yes,No,,Yes,Azusa Light & Water,11/1/2017,
-Los Angeles,Rebate,EV charger,500,Yes,No,,Yes,Burbank Water and Power,,
-Los Angeles,Rebate,EV charger,500,Yes,No,,Yes,Glendale Water & Power,7/1/2017,
-Los Angeles,Rebate,EV charger,1000,Yes,No,,Yes,Los Angeles Department of Water and Power,8/1/2013,
-Los Angeles,Rebate,EV charger,500,Yes,Yes,,Yes,Los Angeles Department of Water and Power,8/1/2013,
-Los Angeles,Rebate,EV charger,600,Yes,No,,Yes,Pasadena Water and Power,8/1/2018,
-Los Angeles,Rebate,BEV,500,Yes,No,,Yes,Pasadena Water and Power,8/1/2018,
-Los Angeles,Rebate,BEV,1000,Yes,Yes,,Yes,Pasadena Water and Power,8/1/2018,
-Madera,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Madera,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Madera,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Madera,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Madera,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Madera,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Marin,Rebate,Any,3500,Yes,Yes,,Yes,Marin Clean Energy,9/12/2018,
-Marin,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Marin,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Marin,Toll discount,CAV,7,Yes,No,,No,California Air�Resources Board,1/1/2019,
-Marin,Free parking,BEV,1.8,Yes,No,,No,Town of Anselmo,2/8/2011,
-Marin,Grant,EV charger,3000,Yes,No,,Yes,Transportation Authority of Marin,7/1/2017,
-Mendocino,Rebate,EV charger,500,Yes,No,,Yes,City of Ukiah Electric Utilities Division,2/20/2019,
-Merced,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Merced,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Merced,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Merced,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Merced,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Merced,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Merced,Rebate,Any,500,No,No,,No,Turlock Irrigation District,,
-Merced,Rebate,Any,700,Yes,Yes,,No,Turlock Irrigation District,,
-Merced,Rebate,EV charger,300,No,No,,No,Turlock Irrigation District,,
-Merced,Rebate,EV charger,100,Yes,Yes,,No,Turlock Irrigation District,,
-Mono,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Mono,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Napa,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Napa,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Napa,Toll discount,CAV,7,Yes,No,,No,California Air�Resources Board,1/1/2019,
-Nevada,Rebate,EV charger,500,Yes,No,,Yes,Truckee Donner Public Utilities District,,
-Orange,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Orange,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Orange,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Orange,Rebate,EV charger,250,No,No,,Yes,South Coast Air Quality Management District,12/10/2021,
-Orange,Rebate,EV charger,250,Yes,Yes,,No,South Coast Air Quality Management District,12/10/2021,
-Orange,Rebate,EV charger,1000,Yes,No,,No,Anaheim Public Utilities,,
-Placer,Rebate,BEV,250,Yes,No,,Yes,Roseville Electric Utility,,
-Placer,Rebate,BEV,1250,Yes,Yes,,Yes,Roseville Electric Utility,,
-Placer,Rebate,EV charger,500,Yes,No,,Yes,Roseville Electric Utility,,
-Placer,Rebate,PHEV,300,Yes,No,,Yes,Roseville Electric Utility,,
-Placer,Rebate,PHEV,700,Yes,Yes,,Yes,Roseville Electric Utility,,
-Placer,Rebate,EV charger,250,Yes,Yes,,Yes,Roseville Electric Utility,,
-Plumas,Rebate,BEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Plumas,Rebate,PHEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Riverside,Rebate,BEV,500,Yes,No,,Yes,Riverside Public Utilities Department,7/1/2021,
-Riverside,Rebate,FCEV,500,Yes,No,,Yes,Riverside Public Utilities Department,7/1/2021,
-Riverside,Rebate,NEV,250,Yes,No,,Yes,Riverside Public Utilities Department,7/1/2021,
-Riverside,Rebate,EM,250,Yes,No,,Yes,Riverside Public Utilities Department,7/1/2021,
-Riverside,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Riverside,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Riverside,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Riverside,Rebate,EV charger,250,No,No,,Yes,South Coast Air Quality Management District,12/10/2021,
-Riverside,Rebate,EV charger,250,Yes,Yes,,No,South Coast Air Quality Management District,12/10/2021,
-Sacramento,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Sacramento,Free charging,BEV,16,Yes,No,,No,City of Sacramento,10/1/2014,
-San Bernardino,Rebate,Any,1000,Yes,No,,Yes,Colton Electric Utility,,
-San Bernardino,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-San Bernardino,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-San Bernardino,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-San Bernardino,Rebate,EV charger,250,No,No,,Yes,South Coast Air Quality Management District,12/10/2021,
-San Bernardino,Rebate,EV charger,250,Yes,Yes,,No,South Coast Air Quality Management District,12/10/2021,
-San Bernardino,Rebate,EV charger,500,Yes,No,,Yes,Colton Electric Utility,,
-San Francisco,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,
-San Francisco,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,2015,
-San Francisco,Toll discount,CAV,7,Yes,No,No,No,California Air�Resources Board,1/1/2019,
-San Joaquin,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-San Joaquin,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-San Joaquin,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-San Joaquin,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-San Joaquin,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-San Joaquin,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,
-San Mateo,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,
-San Mateo,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,2015,
-San Mateo,Toll discount,CAV,7,Yes,No,No,No,California Air�Resources Board,1/1/2019,
-San Mateo,Rebate,PHEV,700,No,No,No,Yes,Peninsula Clean Energy,8/1/2021,
-San Mateo,Rebate,PHEV,5000,Yes,Yes,,Yes,Peninsula Clean Energy,3/1/2019,
-San Mateo,Rebate,BEV,1000,No,No,,Yes,Peninsula Clean Energy,8/1/2021,
-San Mateo,Rebate,BEV,5000,Yes,Yes,,Yes,Peninsula Clean Energy,3/1/2019,
-Santa Clara,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Santa Clara,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Santa Clara,Toll discount,CAV,7,Yes,No,,No,California Air�Resources Board,1/1/2019,
-Santa Clara,Rebate,EV charger,550,Yes,No,,No,Silicon Valley Power,1/1/2019,
-Santa Cruz,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Shasta ,Rebate,BEV,1000,Yes,No,,No,Redding Electric Utility,,
-Shasta ,Rebate,PHEV,1000,Yes,No,,No,Redding Electric Utility,,
-Shasta ,Rebate,EV charger,1500,Yes,No,,No,Redding Electric Utility,,
-Sierra,Rebate,BEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Sierra,Rebate,PHEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Solano,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Solano,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Solano,Toll discount,CAV,7,Yes,No,,No,California Air�Resources Board,1/1/2019,
-Solano,Rebate,EV charger,600,Yes,No,,Yes,Island Energy,7/1/2015,
-Sonoma,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Sonoma,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
-Sonoma,Rebate,EV charger,1000,Yes,No,,Yes,Sonoma Clean Power,8/1/2017,
-Sonoma,Toll discount,CAV,7,Yes,No,,No,California Air�Resources Board,1/1/2019,
-Stanislaus,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Stanislaus,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Stanislaus,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Stanislaus,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Stanislaus,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Stanislaus,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Stanislaus,Rebate,Any,500,No,No,,No,Turlock Irrigation District,1/1/2019,
-Stanislaus,Rebate,Any,700,Yes,Yes,,No,Turlock Irrigation District,1/1/2019,
-Stanislaus,Rebate,EV charger,300,No,No,No,No,Turlock Irrigation District,1/1/2019,
-Stanislaus,Rebate,EV charger,100,Yes,Yes,,No,Turlock Irrigation District,1/1/2019,
-Stanislaus,Rebate,EV charger,500,Yes,No,,Yes,Modesto Irrigation District,1/1/2019,
-Trinity,Rebate,EV charger,500,Yes,No,,Yes,Trinity P.U.D.,,
-Tulare,Rebate,BEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Tulare,Rebate,FCEV,3000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Tulare,Rebate,PHEV,2500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Tulare,Rebate,PZEV,2000,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Tulare,Rebate,SULEV,1500,Yes,No,,Yes,San Joaquin Valley Air Pollution Control District,,
-Tulare,Grant,Any,9500,Yes,Yes,,Yes,Bay Area Air Quality Management District,3/1/2019,
-Tulare,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Tulare,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Ventura,Rebate,Any,1000,Yes,No,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Ventura,Rebate,Any,3000,Yes,Yes,,Yes,Southern California Edison Pre-Owned EV Rebate,,
-Washoe,Rebate,BEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Washoe,Rebate,PHEV,500,Yes,No,,Yes,Plumas-Sierra Rural Electric Cooperative,,
-Yolo,Grant,Any,5000,Yes,Yes,,Yes,CHDC Vehicle Financing,2015,
+﻿County,Incentive Type,EV Type,Max Amount,Requirements,Low Income,Customer,One-time Use,Program Name or Provider,Start Date,End Date
+Alameda,Rebate,BEV,2000,Yes,No,Yes,Yes,Alameda Municipal Power,7/1/2021,1/1/3000
+Alameda,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Alameda,Grant,Any,5000,Yes,Yes,No,Yes,Clean Vehicle Assistance Program,6/1/2018,1/1/3000
+Alameda,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+Alameda,Rebate,EV Charger,800,Yes,No,Yes,Yes,Alameda Municipal Power,7/1/2018,1/1/3000
+Alameda,Rebate,BEV,1000,Yes,Yes,Yes,Yes,Alameda Municipal Power,7/1/2021,1/1/3000
+All,Reward,BEV,750,Yes,No,No,No,California Clean Fuel Reward,11/17/2020,1/1/3000
+All,Rebate,FCEV,4500,Yes,No,No,No,CVRP,1/1/2009,1/1/3000
+All,Rebate,BEV,2000,Yes,No,No,Yes,CVRP,1/1/2009,1/1/3000
+All,Rebate,PHEV,1000,Yes,No,No,Yes,CVRP,1/1/2009,1/1/3000
+All,Rebate,Any,2500,Yes,Yes,No,No,CVRP,1/1/2009,1/1/3000
+All,Tax Credit,Any,7500,Yes,No,No,Yes,IRS,1/1/2010,12/31/2021
+All,HOV,Any,0,Yes,No,No,No,DMV,1/1/2020,1/1/3000
+All,Tax Credit,FCEV,8000,Yes,No,No,Yes,IRS,1/1/2010,12/31/2021
+All,Reward,PHEV,750,Yes,No,No,No,California Clean Fuel Reward,11/17/2020,1/1/3000
+Contra Costa,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Contra Costa,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Contra Costa,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+El Dorado,Rebate,Any,599,Yes,No,Yes,No,El Dorado Air Quality Management District,3/10/2020,1/1/3000
+Fresno,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Fresno,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Fresno,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Fresno,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Fresno,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Fresno,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Imperial,Rebate,EV Charger,500,Yes,No,Yes,Yes,Imperial Irrigation District,,1/1/3000
+Inyo,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Inyo,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Kern,Voucher,ZEV,4000,Yes,No,Yes,No,Eastern Kern Air Pollution Control District,10/1/2016,1/1/3000
+Kern,Voucher,PZEV,2000,Yes,No,Yes,No,Eastern Kern Air Pollution Control District,10/1/2016,1/1/3000
+Kern,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kern,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kern,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kern,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kern,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kern,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Kern,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Kern,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Kings,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kings,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kings,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kings,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kings,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Kings,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Lassen,Rebate,BEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Lassen,Rebate,PHEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Los Angeles,Voucher,BEV,3000,Yes,No,Yes,Yes,Lancaster Choice Energy,10/14/2019,6/30/2020
+Los Angeles,Rebate,Any,1500,Yes,No,Yes,Yes,Los Angeles Department of Water and Power,4/1/2018,1/1/3000
+Los Angeles,Rebate,Any,1000,Yes,Yes,Yes,Yes,Los Angeles Department of Water and Power,4/1/2018,1/1/3000
+Los Angeles,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Los Angeles,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Los Angeles,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Los Angeles,Rebate,EV Charger,250,Yes,No,Yes,Yes,South Coast Air Quality Management District,12/10/2021,1/1/3000
+Los Angeles,Rebate,EV Charger,250,Yes,Yes,Yes,No,South Coast Air Quality Management District,12/10/2021,1/1/3000
+Los Angeles,Free parking,BEV,6.5,Yes,No,No,No,City of Hermosa Beach,,1/1/3000
+Los Angeles,Free parking,CAV,5,Yes,No,No,No,City of Santa Monica,,1/1/3000
+Los Angeles,Voucher,PHEV,3000,Yes,No,Yes,Yes,Lancaster Choice Energy,10/14/2019,6/30/2020
+Los Angeles,Rebate,Any,1500,Yes,Yes,Yes,Yes,Antelope Valley Air Quality Management District,4/1/2011,1/1/3000
+Los Angeles,Rebate,Any,500,Yes,No,Yes,Yes,Pasadena Water and Power,,1/1/3000
+Los Angeles,Rebate,Any,1000,Yes,Yes,Yes,Yes,Pasadena Water and Power,,1/1/3000
+Los Angeles,Rebate,EV Charger,150,Yes,No,Yes,Yes,Azusa Light & Water,11/1/2017,1/1/3000
+Los Angeles,Rebate,EV Charger,500,Yes,No,Yes,Yes,Burbank Water and Power,,1/1/3000
+Los Angeles,Rebate,EV Charger,500,Yes,No,Yes,Yes,Glendale Water & Power,7/1/2017,1/1/3000
+Los Angeles,Rebate,EV Charger,1000,Yes,No,Yes,Yes,Los Angeles Department of Water and Power,8/1/2013,1/1/3000
+Los Angeles,Rebate,EV Charger,500,Yes,Yes,Yes,Yes,Los Angeles Department of Water and Power,8/1/2013,1/1/3000
+Los Angeles,Rebate,EV Charger,600,Yes,No,Yes,Yes,Pasadena Water and Power,8/1/2018,1/1/3000
+Los Angeles,Rebate,BEV,500,Yes,No,Yes,Yes,Pasadena Water and Power,8/1/2018,1/1/3000
+Los Angeles,Rebate,BEV,1000,Yes,Yes,Yes,Yes,Pasadena Water and Power,8/1/2018,1/1/3000
+Madera,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Madera,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Madera,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Madera,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Madera,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Madera,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Marin,Rebate,Any,3500,Yes,Yes,Yes,Yes,Marin Clean Energy,9/12/2018,1/1/3000
+Marin,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Marin,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Marin,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+Marin,Free parking,BEV,1.8,Yes,No,No,No,Town of Anselmo,2/8/2011,1/1/3000
+Marin,Grant,EV Charger,3000,Yes,No,Yes,Yes,Transportation Authority of Marin,7/1/2017,1/1/3000
+Mendocino,Rebate,EV Charger,500,Yes,No,Yes,Yes,City of Ukiah Electric Utilities Division,2/20/2019,1/1/3000
+Merced,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Merced,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Merced,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Merced,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Merced,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Merced,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Merced,Rebate,Any,500,No,No,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Merced,Rebate,Any,700,Yes,Yes,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Merced,Rebate,EV Charger,300,No,No,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Merced,Rebate,EV Charger,100,Yes,Yes,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Mono,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Mono,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Napa,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Napa,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Napa,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+Nevada,Rebate,EV Charger,500,Yes,No,Yes,Yes,Truckee Donner Public Utilities District,1/1/2019,1/1/3000
+Orange,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Orange,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Orange,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Orange,Rebate,EV Charger,250,No,No,Yes,Yes,South Coast Air Quality Management District,12/10/2021,1/1/3000
+Orange,Rebate,EV Charger,250,Yes,Yes,Yes,No,South Coast Air Quality Management District,12/10/2021,1/1/3000
+Orange,Rebate,EV Charger,1000,Yes,No,Yes,No,Anaheim Public Utilities,8/1/2018,1/1/3000
+Placer,Rebate,BEV,250,Yes,No,Yes,Yes,Roseville Electric Utility,,1/1/3000
+Placer,Rebate,BEV,1250,Yes,Yes,Yes,Yes,Roseville Electric Utility,,1/1/3000
+Placer,Rebate,EV Charger,500,Yes,No,Yes,Yes,Roseville Electric Utility,,1/1/3000
+Placer,Rebate,PHEV,300,Yes,No,Yes,Yes,Roseville Electric Utility,,1/1/3000
+Placer,Rebate,PHEV,700,Yes,Yes,Yes,Yes,Roseville Electric Utility,,1/1/3000
+Placer,Rebate,EV Charger,250,Yes,Yes,Yes,Yes,Roseville Electric Utility,,1/1/3000
+Plumas,Rebate,BEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Plumas,Rebate,PHEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Riverside,Rebate,BEV,500,Yes,No,Yes,Yes,Riverside Public Utilities Department,7/1/2021,1/1/3000
+Riverside,Rebate,FCEV,500,Yes,No,Yes,Yes,Riverside Public Utilities Department,7/1/2021,1/1/3000
+Riverside,Rebate,NEV,250,Yes,No,Yes,Yes,Riverside Public Utilities Department,7/1/2021,1/1/3000
+Riverside,Rebate,EM,250,Yes,No,Yes,Yes,Riverside Public Utilities Department,7/1/2021,1/1/3000
+Riverside,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Riverside,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Riverside,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Riverside,Rebate,EV Charger,250,No,No,Yes,Yes,South Coast Air Quality Management District,12/10/2021,1/1/3000
+Riverside,Rebate,EV Charger,250,Yes,Yes,Yes,No,South Coast Air Quality Management District,12/10/2021,1/1/3000
+Sacramento,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Sacramento,Free charging,BEV,16,Yes,No,No,No,City of Sacramento,10/1/2014,1/1/3000
+San Bernardino,Rebate,Any,1000,Yes,No,Yes,Yes,Colton Electric Utility,,1/1/3000
+San Bernardino,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+San Bernardino,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+San Bernardino,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+San Bernardino,Rebate,EV Charger,250,No,No,Yes,Yes,South Coast Air Quality Management District,12/10/2021,1/1/3000
+San Bernardino,Rebate,EV Charger,250,Yes,Yes,Yes,No,South Coast Air Quality Management District,12/10/2021,1/1/3000
+San Bernardino,Rebate,EV Charger,500,Yes,No,Yes,Yes,Colton Electric Utility,,1/1/3000
+San Francisco,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+San Francisco,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+San Francisco,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+San Joaquin,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+San Joaquin,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+San Joaquin,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+San Joaquin,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+San Joaquin,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+San Joaquin,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+San Mateo,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+San Mateo,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+San Mateo,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+San Mateo,Rebate,PHEV,700,No,No,Yes,Yes,Peninsula Clean Energy,8/1/2021,1/1/3000
+San Mateo,Rebate,PHEV,5000,Yes,Yes,Yes,Yes,Peninsula Clean Energy,3/1/2019,1/1/3000
+San Mateo,Rebate,BEV,1000,No,No,Yes,Yes,Peninsula Clean Energy,8/1/2021,1/1/3000
+San Mateo,Rebate,BEV,5000,Yes,Yes,Yes,Yes,Peninsula Clean Energy,3/1/2019,1/1/3000
+Santa Clara,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Santa Clara,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Santa Clara,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+Santa Clara,Rebate,EV Charger,550,Yes,No,Yes,No,Silicon Valley Power,1/1/2019,1/1/3000
+Santa Cruz,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+ShastaÂ ,Rebate,BEV,1000,Yes,No,Yes,No,Redding Electric Utility,1/1/2019,1/1/3000
+ShastaÂ ,Rebate,PHEV,1000,Yes,No,Yes,No,Redding Electric Utility,1/1/2019,1/1/3000
+ShastaÂ ,Rebate,EV Charger,1500,Yes,No,Yes,No,Redding Electric Utility,1/1/2019,1/1/3000
+Sierra,Rebate,BEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Sierra,Rebate,PHEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Solano,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Solano,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Solano,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+Solano,Rebate,EV Charger,600,Yes,No,Yes,Yes,Island Energy,7/1/2015,1/1/3000
+Sonoma,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Sonoma,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Sonoma,Rebate,EV Charger,1000,Yes,No,Yes,Yes,Sonoma Clean Power,8/1/2017,1/1/3000
+Sonoma,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
+Stanislaus,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Stanislaus,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Stanislaus,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Stanislaus,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Stanislaus,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Stanislaus,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Stanislaus,Rebate,Any,500,No,No,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Stanislaus,Rebate,Any,700,Yes,Yes,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Stanislaus,Rebate,EV Charger,300,No,No,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Stanislaus,Rebate,EV Charger,100,Yes,Yes,Yes,No,Turlock Irrigation District,1/1/2019,1/1/3000
+Stanislaus,Rebate,EV Charger,500,Yes,No,Yes,Yes,Modesto Irrigation District,1/1/2019,1/1/3000
+Trinity,Rebate,EV Charger,500,Yes,No,Yes,Yes,Trinity P.U.D.,,1/1/3000
+Tulare,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Tulare,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Tulare,Rebate,PHEV,2500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Tulare,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Tulare,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
+Tulare,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
+Tulare,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Tulare,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Ventura,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Ventura,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
+Washoe,Rebate,BEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Washoe,Rebate,PHEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
+Yolo,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
