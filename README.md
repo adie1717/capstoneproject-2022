@@ -11,7 +11,7 @@ A collaborative project to determine what factors drive ownership of electric ve
 * [Summary](#summary)
 
 ### Resources
-- Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv
+- Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv, pop_db.csv
 - Tools: Python 3.7.13, Jupyter Notebook, Excel, Tableau, Google Slides
 
 ## Overview of Project
@@ -51,10 +51,19 @@ All datasets are for the state of California and we focused our efforts on the y
 - [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased in the state of CA
   - Grouped by county and year
   - Changed fuel types to match incentives dataset values
+  - Added percentage of state sales per year
+- Population estimates by county from [2010](https://dof.ca.gov/forecasting/demographics/estimates/estimates-e6-2010-2021/) to [2022](https://dof.ca.gov/forecasting/demographics/estimates/e-5-population-and-housing-estimates-for-cities-counties-and-the-state-2020-2022/) was found on dof.ca.gov
+  - Cleaned to focus on 2015 to 2022
+  - Added percentage of state population
 
 ## Database Model
 <!-- This comment is hidden from public: Add ERD/excel database model and any bullet points -->
-![ERD](ERD_mockup.png)
+![ERD](Images/ERD_seg2.png)
+- New tables for county sales per year, county population per year, and average demographics per year were made
+- Joined sales and population by year and county
+- Planning to join sales, population, demographics, and incentives by year and county
+  - Demographics are not separated by county and only account for 2015-2018
+    - We would apply averages statewide and mention the gap in the dataset
 
 ## Machine Learning Model
 - Takes in data from provisional model
@@ -64,6 +73,7 @@ All datasets are for the state of California and we focused our efforts on the y
 - Outputs label(s) for input data
   - p-values of top 3 correlated factors
   - Accuracy of nn model prediction of EV ownership
+- Due to COVID-19 creating large variance, we will not include 2020-2021 in our analysis
 
 ## Results
 <!-- This comment is hidden from public: Add wireframe example and any visualizations or bullet points for presentation -->
