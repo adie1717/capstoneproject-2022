@@ -87,7 +87,7 @@ All datasets are for the state of California, we focused our efforts on the year
 <!-- Where did we struggle? What could have been better? What was lacking? -->
 
 ## Future Opportunities
-<!-- Where can we go from here? -->
+<!-- Where can we go from here? Specify data, models, tools -->
 - Given more time for data exploration, one of the factors we would consider is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county? 
 - Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract younger generations to bridge the gap. 
 
