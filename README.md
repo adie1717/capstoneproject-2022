@@ -10,6 +10,7 @@ A collaborative project to determine what factors drive adoption of electric veh
 * [Machine Learning Model](#machine-learning-model)
 * [Results](#results)
 * [Summary](#summary)
+* [Future Opportunities](#future-opportunites)
 
 ### Resources
 - Data Source: CA_county_incentives.csv, demographics.csv, ZEV_Sales.csv, pop_db.csv
@@ -85,13 +86,13 @@ All datasets are for the state of California and we focused our efforts on the y
   - Accuracy of nn model prediction of EV ownership
 - Due to COVID-19 creating large variance, we will not include 2020-2021 in our analysis
 
-## Future Opportunities
-- Given more time for data exploration, one of the factors we would consieer is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county. 
-- Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract millenials and younger generations to bridge the gap. 
-
 ## Results
 <!-- This comment is hidden from public: Add wireframe example and any visualizations or bullet points for presentation -->
 
 ## Summary
+
+## Future Opportunities
+- Given more time for data exploration, one of the factors we would consieer is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county. 
+- Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract millenials and younger generations to bridge the gap. 
 
 
