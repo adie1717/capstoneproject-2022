@@ -4,6 +4,7 @@
         - This works well for README conflicts as well, we can discuss which version we'd like to keep when we can meet live
       - Simplify our writing, most people aren't going to want to look at too much
         - Play with formatting to draw attention where we really want it
+        - What tense are we using, change to reflect where we're at
         - Image sizing and formatting
         - Links -->
 # California EV Dreams
