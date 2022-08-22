@@ -35,16 +35,16 @@ Hypothesis: The 3 major factors improve EV adoption in counties with at least X 
 ## Data Collection and Cleaning
 <!-- This comment is hidden from public: Add bullet points and explain changes made to original datasets -->
 All datasets are for the state of California, we focused our efforts on the years 2015 to present.
-- Found CA incentives data on [driveclean.ca.gov](https://driveclean.ca.gov/search-incentives)
+- Found incentives data on [driveclean.ca.gov](https://driveclean.ca.gov/search-incentives)
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
   - Categorized by EV type and added columns for Requirements, Low Income eligibilty, Customer eligibilty, and One-time Use
-- The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners in CA
+- The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners
   - The dataset covers the years 2015 to 2018
     - [Research papers](https://www.sciencedirect.com/org/science/article/pii/S0144164722003397#:~:text=The%20literature%20identifies%20the%20following%20external%20factors%20as%20having%20the,and%20public%20visibility%2Fsocial%20norms.) indicate that the factors (in this dataset) for EV ownership haven't changed significantly
   - Removed null values and unnecessary columns
   - Changed column names for SQL table and sampled 50% of cleaned data 
-- [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased in the state of CA
+- [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased
   - Grouped by county and year
   - Changed fuel types to match incentives dataset values
   - Added percentage of state sales per year
