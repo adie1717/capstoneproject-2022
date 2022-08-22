@@ -84,7 +84,7 @@ All datasets are for the state of California, we focused our efforts on the year
 <!-- Answer our questions, did this turn out as expected? If not, what surprised us? Quick notes for manufacturers -->
 
 ### Limitations
-<!-- Where did we struggle? What could have been better? What was lacking? -->
+<!-- Where did we struggle? What could have been better? What was lacking? Leads into Future Opps -->
 
 ## Future Opportunities
 <!-- Where can we go from here? Specify data, models, tools -->
