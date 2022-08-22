@@ -1,4 +1,11 @@
 
+<!-- Declutter as we move forward!
+      - Comment out what you still want to reference but don't want to present
+        - This works well for README conflicts as well, we can discuss which version we'd like to keep when we can meet live
+      - Simplify our writing, most people aren't going to want to look at too much
+        - Play with formatting to draw attention where we really want it
+        - Image sizing and formatting
+        - Links -->
 # California EV Dreams
 A collaborative project to determine what factors drive adoption of electric vehicles in California.
 
@@ -71,11 +78,16 @@ All datasets are for the state of California, we focused our efforts on the year
 - Due to COVID-19 creating large variance, we will not include 2020-2021 in our analysis
 
 ## Results
-<!-- This comment is hidden from public: Add wireframe example and any visualizations or bullet points for presentation -->
+<!-- Visualizations or bullet points for presentation -->
 
 ## Summary
+<!-- Answer our questions, did this turn out as expected? If not, what surprised us? Quick notes for manufacturers -->
+
+### Limitations
+<!-- Where did we struggle? What could have been better? What was lacking? -->
 
 ## Future Opportunities
+<!-- Where can we go from here? -->
 - Given more time for data exploration, one of the factors we would consider is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county? 
 - Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract younger generations to bridge the gap. 
 
