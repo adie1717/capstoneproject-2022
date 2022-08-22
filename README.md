@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # capstoneproject-2022
 Capstone Project 2022
 
@@ -87,4 +87,9 @@ All datasets are for the state of California and we focused our efforts on the y
 ## Summary
 
 
->>>>>>> d390c7a3e2f17500630230263d4f1e9ce8d5fc3d
+Adriana
+
+
+
+d390c7a3e2f17500630230263d4f1e9ce8d5fc3d
+main
