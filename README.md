@@ -58,7 +58,17 @@ All datasets are for the state of California and we focused our efforts on the y
   - Added percentage of state population
 
 ## Database Model
-<!-- This comment is hidden from public: Add ERD/excel database model and any bullet points -->
+<!-- This comment is hidden from public: Add ERD/excel database model and any bullet points 
+Our collective database includes five tables, created from multiple datasets which which contain data on electric vehicles in California. The database was created in PostgreSQL (PGadmin), and is now stored on Amazon Web Services RDS (free tier). This allows any team member to link to - and update - the collective database. We have multiple joins within SQL and Jupyter Notebook Machine Learning model.
+
+- The database stores our static data that we will use during the project. Our static data is stored in Amazon Web Services Relational Database Service, and is used to host the Postgres database that is used to run the machine learning model.
+
+- The database interfaces directly with the machine learning model, and is stored on AWS RD. 
+
+- Our database includes 5 tables, PostgresSQL - was used to create these tables and joining was preprocessed for datasets for the ML model. 
+![database](https://user-images.githubusercontent.com/100455534/185841678-2253a8a7-645c-485f-9ae9-d92d4848bfaf.png)
+
+- The data is connected via schalchemy to the machine learning model. -->
 ![ERD](Images/ERD_seg2.png)
 - New tables for county sales per year, county population per year, and average demographics per year were made
 - Joined sales and population by year and county
