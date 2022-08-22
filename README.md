@@ -1,5 +1,5 @@
 # California EV Dreams
-A collaborative project to determine what factors drive ownership of electric vehicles in California.
+A collaborative project to determine what factors drive adoption of electric vehicles in California.
 
 ## Table of contents
 * [Overview of Project](#overview-of-project)
