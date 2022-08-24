@@ -47,7 +47,9 @@ All datasets are for the state of California and we focused our efforts on the y
 - The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners in CA
   - The dataset covers the years 2015 to 2018
     - [Research papers](https://www.sciencedirect.com/org/science/article/pii/S0144164722003397#:~:text=The%20literature%20identifies%20the%20following%20external%20factors%20as%20having%20the,and%20public%20visibility%2Fsocial%20norms.) indicate that the factors (in this dataset) for EV ownership haven't changed significantly
-  - Removed null values and unnecessary columns
+  - Removed null values and unnecessary columns such as column containing survey year which was duplicative of the 'year' column. 
+  - For the sales dataset, we removed the zip code field since the data also contained county which is what we choose to focus on given our topic and purpose. In addition, we removed 'fuel type'as we had a column with similar data. 
+  - Removed program name of the incentive given that this datapoint was of little to no significance 
   - Changed column names for SQL table and sampled 50% of cleaned data 
 - [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased in the state of CA
   - Grouped by county and year
@@ -83,7 +85,7 @@ Our collective database includes five tables, created from multiple datasets whi
 
 ## Machine Learning Model
 - In evaluating our data, we considered all points that ultimtely would support our topic; Do the number of incentives offered in counties of California contribute to EV sales? After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis. The demographics data would serve best as supporting data. 
--Cleaning the data
+- Cleaning the data
   - The initial reshaping of the data took place in Jupyter notebook. We read in each of the data sets, identified that there were several nulls that needed to be removed. In addition, we took a fraction of the data given that our demographics data set was large. 
 - AWS Relational Database and PG Admin
   - After completion of the initial evalution, cleaning and reshaphing of the data, we created a relations database in AWS and connected it to our PG Admin account. This allowed us to joing our datasets and start correlating our metadata. 
