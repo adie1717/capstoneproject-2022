@@ -44,17 +44,17 @@ All datasets are for the state of California and we focused our efforts on the y
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
   - Categorized by EV type and added columns for Requirements, Low Income eligibilty, Membership eligibilty, and One-time Use
+  - Removed program name of the incentive given that this datapoint was of little to no significance
 - The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners in CA
   - The dataset covers the years 2015 to 2018
     - [Research papers](https://www.sciencedirect.com/org/science/article/pii/S0144164722003397#:~:text=The%20literature%20identifies%20the%20following%20external%20factors%20as%20having%20the,and%20public%20visibility%2Fsocial%20norms.) indicate that the factors (in this dataset) for EV ownership haven't changed significantly
-  - Removed null values and unnecessary columns such as column containing survey year which was duplicative of the 'year' column. 
-  - For the sales dataset, we removed the zip code field since the data also contained county which is what we choose to focus on given our topic and purpose. In addition, we removed 'fuel type'as we had a column with similar data. 
-  - Removed program name of the incentive given that this datapoint was of little to no significance 
+  - Removed null values and unnecessary columns such as column containing survey year which was duplicative of the 'year' column.  
   - Changed column names for SQL table and sampled 50% of cleaned data 
 - [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased in the state of CA
   - Grouped by county and year
   - Changed fuel types to match incentives dataset values
   - Added percentage of state sales per year
+  - For the sales dataset, we removed the zip code field since the data also contained county which is what we choose to focus on given our topic and purpose. In addition, we removed 'fuel type'as we had a column with similar data.
 - Population estimates by county from [2010](https://dof.ca.gov/forecasting/demographics/estimates/estimates-e6-2010-2021/) to [2022](https://dof.ca.gov/forecasting/demographics/estimates/e-5-population-and-housing-estimates-for-cities-counties-and-the-state-2020-2022/) was found on dof.ca.gov
   - Cleaned to focus on 2015 to 2022
   - Added percentage of state population
