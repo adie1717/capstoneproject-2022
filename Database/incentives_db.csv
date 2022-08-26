@@ -15,33 +15,33 @@ All,HOV,Any,0,1,0,0,0,1/1/2020,1/1/3000
 All,Tax Credit,FCEV,8000,1,0,0,1,1/1/2010,12/31/2021
 All,Reward,PHEV,750,1,0,0,0,11/17/2020,1/1/3000
 Contra Costa,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Contra Costa,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Contra Costa,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 Contra Costa,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
 El Dorado,Rebate,Any,599,1,0,1,0,3/10/2020,1/1/3000
-Fresno,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-Fresno,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-Fresno,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-Fresno,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-Fresno,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+Fresno,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+Fresno,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+Fresno,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+Fresno,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+Fresno,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 Fresno,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Imperial,Rebate,EV Charger,500,1,0,1,1,,1/1/3000
-Inyo,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Inyo,Rebate,Any,3000,1,1,1,1,,1/1/3000
+Imperial,Rebate,EV Charger,500,1,0,1,1,2019,1/1/3000
+Inyo,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Inyo,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
 Kern,Voucher,ZEV,4000,1,0,1,0,10/1/2016,1/1/3000
 Kern,Voucher,PZEV,2000,1,0,1,0,10/1/2016,1/1/3000
-Kern,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-Kern,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-Kern,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-Kern,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-Kern,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+Kern,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+Kern,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+Kern,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+Kern,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+Kern,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 Kern,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Kern,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Kern,Rebate,Any,3000,1,1,1,1,,1/1/3000
-Kings,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-Kings,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-Kings,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-Kings,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-Kings,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+Kern,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Kern,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
+Kings,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+Kings,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+Kings,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+Kings,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+Kings,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 Kings,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
 Lassen,Rebate,BEV,500,1,0,1,1,1/1/2019,1/1/3000
 Lassen,Rebate,PHEV,500,1,0,1,1,1/1/2019,1/1/3000
@@ -49,65 +49,65 @@ Los Angeles,Voucher,BEV,3000,1,0,1,1,10/14/2019,6/30/2020
 Los Angeles,Rebate,Any,1500,1,0,1,1,4/1/2018,1/1/3000
 Los Angeles,Rebate,Any,1000,1,1,1,1,4/1/2018,1/1/3000
 Los Angeles,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Los Angeles,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Los Angeles,Rebate,Any,3000,1,1,1,1,,1/1/3000
+Los Angeles,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Los Angeles,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
 Los Angeles,Rebate,EV Charger,250,1,0,1,1,12/10/2021,1/1/3000
 Los Angeles,Rebate,EV Charger,250,1,1,1,0,12/10/2021,1/1/3000
-Los Angeles,Free parking,BEV,6,1,0,0,0,,1/1/3000
-Los Angeles,Free parking,CAV,5,1,0,0,0,,1/1/3000
+Los Angeles,Free parking,BEV,6,1,0,0,0,2019,1/1/3000
+Los Angeles,Free parking,CAV,5,1,0,0,0,2019,1/1/3000
 Los Angeles,Voucher,PHEV,3000,1,0,1,1,10/14/2019,6/30/2020
 Los Angeles,Rebate,Any,1500,1,1,1,1,4/1/2011,1/1/3000
-Los Angeles,Rebate,Any,500,1,0,1,1,,1/1/3000
-Los Angeles,Rebate,Any,1000,1,1,1,1,,1/1/3000
+Los Angeles,Rebate,Any,500,1,0,1,1,2019,1/1/3000
+Los Angeles,Rebate,Any,1000,1,1,1,1,2019,1/1/3000
 Los Angeles,Rebate,EV Charger,150,1,0,1,1,11/1/2017,1/1/3000
-Los Angeles,Rebate,EV Charger,500,1,0,1,1,,1/1/3000
+Los Angeles,Rebate,EV Charger,500,1,0,1,1,2019,1/1/3000
 Los Angeles,Rebate,EV Charger,500,1,0,1,1,7/1/2017,1/1/3000
 Los Angeles,Rebate,EV Charger,1000,1,0,1,1,8/1/2013,1/1/3000
 Los Angeles,Rebate,EV Charger,500,1,1,1,1,8/1/2013,1/1/3000
 Los Angeles,Rebate,EV Charger,600,1,0,1,1,8/1/2018,1/1/3000
 Los Angeles,Rebate,BEV,500,1,0,1,1,8/1/2018,1/1/3000
 Los Angeles,Rebate,BEV,1000,1,1,1,1,8/1/2018,1/1/3000
-Madera,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-Madera,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-Madera,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-Madera,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-Madera,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+Madera,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+Madera,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+Madera,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+Madera,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+Madera,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 Madera,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
 Marin,Rebate,Any,3500,1,1,1,1,9/12/2018,1/1/3000
 Marin,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Marin,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Marin,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 Marin,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
 Marin,Free parking,BEV,1,1,0,0,0,2/8/2011,1/1/3000
 Marin,Grant,EV Charger,3000,1,0,1,1,7/1/2017,1/1/3000
 Mendocino,Rebate,EV Charger,500,1,0,1,1,2/20/2019,1/1/3000
-Merced,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-Merced,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-Merced,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-Merced,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-Merced,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+Merced,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+Merced,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+Merced,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+Merced,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+Merced,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 Merced,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
 Merced,Rebate,Any,500,0,0,1,0,1/1/2019,1/1/3000
 Merced,Rebate,Any,700,1,1,1,0,1/1/2019,1/1/3000
 Merced,Rebate,EV Charger,300,0,0,1,0,1/1/2019,1/1/3000
 Merced,Rebate,EV Charger,100,1,1,1,0,1/1/2019,1/1/3000
-Mono,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Mono,Rebate,Any,3000,1,1,1,1,,1/1/3000
+Mono,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Mono,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
 Napa,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Napa,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Napa,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 Napa,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
 Nevada,Rebate,EV Charger,500,1,0,1,1,1/1/2019,1/1/3000
 Orange,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Orange,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Orange,Rebate,Any,3000,1,1,1,1,,1/1/3000
+Orange,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Orange,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
 Orange,Rebate,EV Charger,250,0,0,1,1,12/10/2021,1/1/3000
 Orange,Rebate,EV Charger,250,1,1,1,0,12/10/2021,1/1/3000
 Orange,Rebate,EV Charger,1000,1,0,1,0,8/1/2018,1/1/3000
-Placer,Rebate,BEV,250,1,0,1,1,,1/1/3000
-Placer,Rebate,BEV,1250,1,1,1,1,,1/1/3000
-Placer,Rebate,EV Charger,500,1,0,1,1,,1/1/3000
-Placer,Rebate,PHEV,300,1,0,1,1,,1/1/3000
-Placer,Rebate,PHEV,700,1,1,1,1,,1/1/3000
-Placer,Rebate,EV Charger,250,1,1,1,1,,1/1/3000
+Placer,Rebate,BEV,250,1,0,1,1,2019,1/1/3000
+Placer,Rebate,BEV,1250,1,1,1,1,2019,1/1/3000
+Placer,Rebate,EV Charger,500,1,0,1,1,2019,1/1/3000
+Placer,Rebate,PHEV,300,1,0,1,1,2019,1/1/3000
+Placer,Rebate,PHEV,700,1,1,1,1,2019,1/1/3000
+Placer,Rebate,EV Charger,250,1,1,1,1,2019,1/1/3000
 Plumas,Rebate,BEV,500,1,0,1,1,1/1/2019,1/1/3000
 Plumas,Rebate,PHEV,500,1,0,1,1,1/1/2019,1/1/3000
 Riverside,Rebate,BEV,500,1,0,1,1,7/1/2021,1/1/3000
@@ -115,30 +115,30 @@ Riverside,Rebate,FCEV,500,1,0,1,1,7/1/2021,1/1/3000
 Riverside,Rebate,NEV,250,1,0,1,1,7/1/2021,1/1/3000
 Riverside,Rebate,EM,250,1,0,1,1,7/1/2021,1/1/3000
 Riverside,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Riverside,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Riverside,Rebate,Any,3000,1,1,1,1,,1/1/3000
+Riverside,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Riverside,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
 Riverside,Rebate,EV Charger,250,0,0,1,1,12/10/2021,1/1/3000
 Riverside,Rebate,EV Charger,250,1,1,1,0,12/10/2021,1/1/3000
-Sacramento,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Sacramento,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 Sacramento,Free charging,BEV,16,1,0,0,0,10/1/2014,1/1/3000
-San Bernardino,Rebate,Any,1000,1,0,1,1,,1/1/3000
+San Bernardino,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
 San Bernardino,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-San Bernardino,Rebate,Any,1000,1,0,1,1,,1/1/3000
-San Bernardino,Rebate,Any,3000,1,1,1,1,,1/1/3000
+San Bernardino,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+San Bernardino,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
 San Bernardino,Rebate,EV Charger,250,0,0,1,1,12/10/2021,1/1/3000
 San Bernardino,Rebate,EV Charger,250,1,1,1,0,12/10/2021,1/1/3000
-San Bernardino,Rebate,EV Charger,500,1,0,1,1,,1/1/3000
+San Bernardino,Rebate,EV Charger,500,1,0,1,1,2019,1/1/3000
 San Francisco,Grant,Any,9500,1,1,0,1,3/1/2019,1/1/3000
-San Francisco,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+San Francisco,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 San Francisco,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
-San Joaquin,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-San Joaquin,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-San Joaquin,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-San Joaquin,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-San Joaquin,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+San Joaquin,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+San Joaquin,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+San Joaquin,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+San Joaquin,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+San Joaquin,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 San Joaquin,Grant,Any,9500,1,1,0,1,3/1/2019,1/1/3000
 San Mateo,Grant,Any,9500,1,1,0,1,3/1/2019,1/1/3000
-San Mateo,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+San Mateo,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 San Mateo,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
 San Mateo,Rebate,PHEV,700,0,0,1,1,8/1/2021,1/1/3000
 San Mateo,Rebate,PHEV,5000,1,1,1,1,3/1/2019,1/1/3000
@@ -148,42 +148,42 @@ Santa Clara,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
 Santa Clara,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
 Santa Clara,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
 Santa Clara,Rebate,EV Charger,550,1,0,1,0,1/1/2019,1/1/3000
-Santa Cruz,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Santa Cruz,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 ShastaÂ ,Rebate,BEV,1000,1,0,1,0,1/1/2019,1/1/3000
 ShastaÂ ,Rebate,PHEV,1000,1,0,1,0,1/1/2019,1/1/3000
 ShastaÂ ,Rebate,EV Charger,1500,1,0,1,0,1/1/2019,1/1/3000
 Sierra,Rebate,BEV,500,1,0,1,1,1/1/2019,1/1/3000
 Sierra,Rebate,PHEV,500,1,0,1,1,1/1/2019,1/1/3000
 Solano,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Solano,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Solano,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 Solano,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
 Solano,Rebate,EV Charger,600,1,0,1,1,7/1/2015,1/1/3000
 Sonoma,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Sonoma,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Sonoma,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
 Sonoma,Rebate,EV Charger,1000,1,0,1,1,8/1/2017,1/1/3000
 Sonoma,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/3000
-Stanislaus,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-Stanislaus,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-Stanislaus,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-Stanislaus,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-Stanislaus,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+Stanislaus,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+Stanislaus,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+Stanislaus,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+Stanislaus,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+Stanislaus,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 Stanislaus,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
 Stanislaus,Rebate,Any,500,0,0,1,0,1/1/2019,1/1/3000
 Stanislaus,Rebate,Any,700,1,1,1,0,1/1/2019,1/1/3000
 Stanislaus,Rebate,EV Charger,300,0,0,1,0,1/1/2019,1/1/3000
 Stanislaus,Rebate,EV Charger,100,1,1,1,0,1/1/2019,1/1/3000
 Stanislaus,Rebate,EV Charger,500,1,0,1,1,1/1/2019,1/1/3000
-Trinity,Rebate,EV Charger,500,1,0,1,1,,1/1/3000
-Tulare,Rebate,BEV,3000,1,0,1,1,,1/1/3000
-Tulare,Rebate,FCEV,3000,1,0,1,1,,1/1/3000
-Tulare,Rebate,PHEV,2500,1,0,1,1,,1/1/3000
-Tulare,Rebate,PZEV,2000,1,0,1,1,,1/1/3000
-Tulare,Rebate,SULEV,1500,1,0,1,1,,1/1/3000
+Trinity,Rebate,EV Charger,500,1,0,1,1,2019,1/1/3000
+Tulare,Rebate,BEV,3000,1,0,1,1,2019,1/1/3000
+Tulare,Rebate,FCEV,3000,1,0,1,1,2019,1/1/3000
+Tulare,Rebate,PHEV,2500,1,0,1,1,2019,1/1/3000
+Tulare,Rebate,PZEV,2000,1,0,1,1,2019,1/1/3000
+Tulare,Rebate,SULEV,1500,1,0,1,1,2019,1/1/3000
 Tulare,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/3000
-Tulare,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Tulare,Rebate,Any,3000,1,1,1,1,,1/1/3000
-Ventura,Rebate,Any,1000,1,0,1,1,,1/1/3000
-Ventura,Rebate,Any,3000,1,1,1,1,,1/1/3000
+Tulare,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Tulare,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
+Ventura,Rebate,Any,1000,1,0,1,1,2019,1/1/3000
+Ventura,Rebate,Any,3000,1,1,1,1,2019,1/1/3000
 Washoe,Rebate,BEV,500,1,0,1,1,1/1/2019,1/1/3000
 Washoe,Rebate,PHEV,500,1,0,1,1,1/1/2019,1/1/3000
-Yolo,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/3000
+Yolo,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/3000
