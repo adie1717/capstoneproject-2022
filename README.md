@@ -38,22 +38,44 @@ All datasets are for the state of California, we focused our efforts on the year
 - Found incentives data on [driveclean.ca.gov](https://driveclean.ca.gov/search-incentives)
   - Used provided information and resource links to create CA_county_incentives.csv
   - Emailed organizations for additional info, like start and end dates, if missing
+<<<<<<< HEAD
   - Categorized by EV type and added columns for Requirements, Low Income eligibilty, Customer eligibilty, and One-time Use
 - The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners
+=======
+  - Categorized by EV type and added columns for Requirements, Low Income eligibilty, Membership eligibilty, and One-time Use
+  - Removed program name of the incentive given that this datapoint was of little to no significance
+- The [demographics](https://datadryad.org/stash/dataset/doi:10.25338/B8P313) dataset contains socioeconomic data of EV owners in CA
+>>>>>>> db66a5999498dbb267bb508a027a6d367a539f47
   - The dataset covers the years 2015 to 2018
     - [Research papers](https://www.sciencedirect.com/org/science/article/pii/S0144164722003397#:~:text=The%20literature%20identifies%20the%20following%20external%20factors%20as%20having%20the,and%20public%20visibility%2Fsocial%20norms.) indicate that the factors (in this dataset) for EV ownership haven't changed significantly
-  - Removed null values and unnecessary columns
+  - Removed null values and unnecessary columns such as column containing survey year which was duplicative of the 'year' column.  
   - Changed column names for SQL table and sampled 50% of cleaned data 
 - [ZEV sales](https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales) data contains number of EVs purchased
   - Grouped by county and year
   - Changed fuel types to match incentives dataset values
   - Added percentage of state sales per year
+  - For the sales dataset, we removed the zip code field since the data also contained county which is what we choose to focus on given our topic and purpose. In addition, we removed 'fuel type'as we had a column with similar data.
 - Population estimates by county from [2010](https://dof.ca.gov/forecasting/demographics/estimates/estimates-e6-2010-2021/) to [2022](https://dof.ca.gov/forecasting/demographics/estimates/e-5-population-and-housing-estimates-for-cities-counties-and-the-state-2020-2022/) was found on dof.ca.gov
   - Added percentage of state population
 
 ## Database Model
+<<<<<<< HEAD
 <!-- ![ERD](Images/ERD_seg2.png) -->
 - Used an AWS Relational Database and SQL
+=======
+<!-- This comment is hidden from public: Add ERD/excel database model and any bullet points 
+Our collective database includes five tables, created from multiple datasets which which contain data on electric vehicles in California. The database was created in PostgreSQL (PGadmin), and is now stored on Amazon Web Services RDS (free tier). This allows any team member to link to - and update - the collective database. We have multiple joins within SQL and Jupyter Notebook Machine Learning model.
+
+- The database stores our static data that we will use during the project. Our static data is stored in Amazon Web Services Relational Database Service, and is used to host the Postgres database that is used to run the machine learning model.
+
+- The database interfaces directly with the machine learning model, and is stored on AWS RD. 
+
+- Our database includes 5 tables, PostgresSQL - was used to create these tables and joining was preprocessed for datasets for the ML model. 
+![database](https://user-images.githubusercontent.com/100455534/185841678-2253a8a7-645c-485f-9ae9-d92d4848bfaf.png)
+
+- The data is connected via schalchemy to the machine learning model. -->
+![ERD](Images/ERD_seg2.png)
+>>>>>>> db66a5999498dbb267bb508a027a6d367a539f47
 - New tables for county sales per year, county population per year, and average demographics per year were made
 - Joined sales and population by year and county
 - Planning to join sales, population, demographics, and incentives by year and county
@@ -66,10 +88,18 @@ All datasets are for the state of California, we focused our efforts on the year
       - Calculate non-customer max amount, add in max customer incentive
 
 ## Machine Learning Model
+<<<<<<< HEAD
 - In evaluating our data, we considered all points that ultimately would support our topic;
   - Do the number of incentives offered in counties of California contribute to EV sales?
 - After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis.
 - The demographics data would serve best as supporting data. 
+=======
+- In evaluating our data, we considered all points that ultimtely would support our topic; Do the number of incentives offered in counties of California contribute to EV sales? After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis. The demographics data would serve best as supporting data. 
+- Cleaning the data
+  - The initial reshaping of the data took place in Jupyter notebook. We read in each of the data sets, identified that there were several nulls that needed to be removed. In addition, we took a fraction of the data given that our demographics data set was large. 
+- AWS Relational Database and PG Admin
+  - After completion of the initial evalution, cleaning and reshaphing of the data, we created a relations database in AWS and connected it to our PG Admin account. This allowed us to joing our datasets and start correlating our metadata. 
+>>>>>>> db66a5999498dbb267bb508a027a6d367a539f47
   - Our Dependent variables were: Ownership/Sales
   - Our Independent variables were: Income, Incentives, Length of Commute, etc.
     - The final 3 highest correlated factors were determined by multiple linear regression analysis
