@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>ML Model - Massively by HTML5 UP</title>
+		<title>ML Model</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,16 +19,17 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo">EV Sales in California</a>
+						<a href="index.html" class="logo">California EV Dreams</a>
 					</header>
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li><a href="index.html">Intro</a></li>
+							<li><a href="index.html">Home</a></li>
 							<li><a href="generic.html">Database</a></li>
 							<li class="active"><a href="elements.html">ML Model</a></li>
-							<li><a href="contact.html">Search</a></li>
+							<li><a href="contact.html">Interactive Map</a></li>
+							<li><a href="dashboard.html">Dashboard</a></li>
 						</ul>
 						
 					</nav>
@@ -40,27 +41,41 @@
 							<section class="post">
 								<header class="major">
 									
-									<h1>Machine Learning Model<br />
+									<h1>Machine Learning Model
 									</h1>
-									<style>
-									{text-align: left;}
-									</style>
 									
-									<ul>
-										<p><li>In evaluating our data, we considered all points that ultimtely would support our topic; Do the number of incentives offered in counties of California contribute to EV sales? After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis. The demographics data would serve best as supporting data. 
-										-Cleaning the data </li></ul></p>
-										<ul>
-											<li>The initial reshaping of the data took place in Jupyter notebook. We read in each of the data sets, identified that there were several nulls that needed to be removed. In addition, we took a fraction of the data given that our demographics data set was large. </li>
+						
+					
+					<ul> 
+									<li> <p>In evaluating our data, we considered all points that ultimately would support our topic; </li> </p>
+									<ul style="list-style-type:circle"> 
+									<li> <p>Do the number of incentives offered in counties of California contribute to EV sales? </li> </p> </ul>
+									<li><p>After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis. </li> </p>
+									<li><p>	The demographics data would serve best as supporting data.</li>	</p>			
+									
+									<li><p>In evaluating our data, we considered all points that ultimately would support our topic; Do the number of incentives offered in counties of California contribute to EV sales? After initial evaluation we identified that the incentives and sales data would ultimately provide the best model for our hypothesis. The demographics data would serve best as supporting data. </li> </p>
 
-									<li>AWS Relational Database and PG Admin </li>
-									<li>After completion of the initial evalution, cleaning and reshaphing of the data, we created a relations database in AWS and connected it to our PG Admin account. This allowed us to joing our datasets and start correlating our metadata.</li>
-									<li Dependent variables were: Ownership/Sales</li>
-									<li>Our Independent variables were: Income, Incentives, Length of Commute, etc. -The final 3 highest correlated factors were determined by multiple linear regression analysis </li>
-									<li>Outputs label(s) for input data</li>
-									<li>p-values of top 3 correlated factors</li>
-									<li>Accuracy of nn model prediction of EV ownership</li>
-									
+									<li> <p>Cleaning the data </li> </p>
+									<ul style="list-style-type:circle"> 
+									<li><p>The initial reshaping of the data took place in Jupyter notebook. We read in each of the data sets, identified that there were several nulls that needed to be removed. In addition, we took a fraction of the data given that would demographics data set was large. </li> </p></ul>
 								
+									
+								<li><p>	AWS Relational Database and PG Admin </li> </p>
+								<ul style="list-style-type:circle"> 		
+								<li><p>After completion of the initial evaluation, cleaning and reshaping of the data, we created a relation database in AWS and connected it to our PG Admin account. This allowed us to join our datasets and start correlating our metadata. </li></p></ul>
+										<li><p> Our Dependent variables were: Ownership/Sales </li> </p>
+										<li><p> Our Independent variables were: Income, Inventives, Length of Commute, etc. </li> </p>
+										<ul style="list-style-type:circle"> 			
+										<li><p> The final 3 highest correlated facors were determined by multiple linear regression analysis </li> </p> </ul>
+							
+							
+						<li><p>Due to COVID-19 creating large variance, we will not include 2020-2021 in our analysis </li> </p>
+
+									
+			
+								</section>		
+
+
 								
 								</script>
 
@@ -92,6 +107,17 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+
+			<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
+
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
 
 	</body>
 </html>
