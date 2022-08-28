@@ -15,7 +15,7 @@ All,HOV,Any,0,Yes,No,No,No,DMV,1/1/2020,1/1/3000
 All,Tax Credit,FCEV,8000,Yes,No,No,Yes,IRS,1/1/2010,12/31/2021
 All,Reward,PHEV,750,Yes,No,No,No,California Clean Fuel Reward,11/17/2020,1/1/3000
 Contra Costa,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
-Contra Costa,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Contra Costa,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 Contra Costa,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 El Dorado,Rebate,Any,599,Yes,No,Yes,No,El Dorado Air Quality Management District,3/10/2020,1/1/3000
 Fresno,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
@@ -75,7 +75,7 @@ Madera,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control
 Madera,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
 Marin,Rebate,Any,3500,Yes,Yes,Yes,Yes,Marin Clean Energy,9/12/2018,1/1/3000
 Marin,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
-Marin,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Marin,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 Marin,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 Marin,Free parking,BEV,1.8,Yes,No,No,No,Town of Anselmo,2/8/2011,1/1/3000
 Marin,Grant,EV Charger,3000,Yes,No,Yes,Yes,Transportation Authority of Marin,7/1/2017,1/1/3000
@@ -93,7 +93,7 @@ Merced,Rebate,EV Charger,100,Yes,Yes,Yes,No,Turlock Irrigation District,1/1/2019
 Mono,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
 Mono,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
 Napa,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
-Napa,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Napa,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 Napa,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 Nevada,Rebate,EV Charger,500,Yes,No,Yes,Yes,Truckee Donner Public Utilities District,1/1/2019,1/1/3000
 Orange,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
@@ -119,7 +119,7 @@ Riverside,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV
 Riverside,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
 Riverside,Rebate,EV Charger,250,No,No,Yes,Yes,South Coast Air Quality Management District,12/10/2021,1/1/3000
 Riverside,Rebate,EV Charger,250,Yes,Yes,Yes,No,South Coast Air Quality Management District,12/10/2021,1/1/3000
-Sacramento,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Sacramento,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 Sacramento,Free charging,BEV,16,Yes,No,No,No,City of Sacramento,10/1/2014,1/1/3000
 San Bernardino,Rebate,Any,1000,Yes,No,Yes,Yes,Colton Electric Utility,,1/1/3000
 San Bernardino,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
@@ -129,7 +129,7 @@ San Bernardino,Rebate,EV Charger,250,No,No,Yes,Yes,South Coast Air Quality Manag
 San Bernardino,Rebate,EV Charger,250,Yes,Yes,Yes,No,South Coast Air Quality Management District,12/10/2021,1/1/3000
 San Bernardino,Rebate,EV Charger,500,Yes,No,Yes,Yes,Colton Electric Utility,,1/1/3000
 San Francisco,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
-San Francisco,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+San Francisco,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 San Francisco,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 San Joaquin,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
 San Joaquin,Rebate,FCEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
@@ -138,7 +138,7 @@ San Joaquin,Rebate,PZEV,2000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Con
 San Joaquin,Rebate,SULEV,1500,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
 San Joaquin,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
 San Mateo,Grant,Any,9500,Yes,Yes,No,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
-San Mateo,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+San Mateo,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 San Mateo,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 San Mateo,Rebate,PHEV,700,No,No,Yes,Yes,Peninsula Clean Energy,8/1/2021,1/1/3000
 San Mateo,Rebate,PHEV,5000,Yes,Yes,Yes,Yes,Peninsula Clean Energy,3/1/2019,1/1/3000
@@ -148,18 +148,18 @@ Santa Clara,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management Distr
 Santa Clara,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
 Santa Clara,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 Santa Clara,Rebate,EV Charger,550,Yes,No,Yes,No,Silicon Valley Power,1/1/2019,1/1/3000
-Santa Cruz,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Santa Cruz,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 ShastaÂ ,Rebate,BEV,1000,Yes,No,Yes,No,Redding Electric Utility,1/1/2019,1/1/3000
 ShastaÂ ,Rebate,PHEV,1000,Yes,No,Yes,No,Redding Electric Utility,1/1/2019,1/1/3000
 ShastaÂ ,Rebate,EV Charger,1500,Yes,No,Yes,No,Redding Electric Utility,1/1/2019,1/1/3000
 Sierra,Rebate,BEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
 Sierra,Rebate,PHEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
 Solano,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
-Solano,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Solano,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 Solano,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 Solano,Rebate,EV Charger,600,Yes,No,Yes,Yes,Island Energy,7/1/2015,1/1/3000
 Sonoma,Grant,Any,9500,Yes,Yes,Yes,Yes,Bay Area Air Quality Management District,3/1/2019,1/1/3000
-Sonoma,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Sonoma,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
 Sonoma,Rebate,EV Charger,1000,Yes,No,Yes,Yes,Sonoma Clean Power,8/1/2017,1/1/3000
 Sonoma,Toll discount,CAV,7,Yes,No,No,No,California Air Resources Board,1/1/2019,1/1/3000
 Stanislaus,Rebate,BEV,3000,Yes,No,Yes,Yes,San Joaquin Valley Air Pollution Control District,,1/1/3000
@@ -186,4 +186,4 @@ Ventura,Rebate,Any,1000,Yes,No,Yes,Yes,Southern California Edison Pre-Owned EV R
 Ventura,Rebate,Any,3000,Yes,Yes,Yes,Yes,Southern California Edison Pre-Owned EV Rebate,,1/1/3000
 Washoe,Rebate,BEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
 Washoe,Rebate,PHEV,500,Yes,No,Yes,Yes,Plumas-Sierra Rural Electric Cooperative,1/1/2019,1/1/3000
-Yolo,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,1/1/2015,1/1/3000
+Yolo,Grant,Any,5000,Yes,Yes,No,Yes,CHDC Vehicle Financing,11/5/2015,1/1/3000
