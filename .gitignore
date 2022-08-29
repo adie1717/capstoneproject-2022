@@ -1,5 +1,14 @@
 # Add files
 config.py
+.DS_Store
+joins.txt
+Geometricks_Wireframe.png
+Demographicsclean.ipynb
+ZEV_sales_clean.ipynb
+demographics_new.csv
+demographics.xlsx
+CA_pop_2010-2021_og.xlsx
+ERD_mockup.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
