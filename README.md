@@ -71,16 +71,16 @@ All datasets are for the state of California, we focused our efforts on the year
 
 ## Machine Learning Models
 - After initial evaluation, we identified that the incentives, population, and sales data would provided the best model for our hypothesis
-- Demographics provided supporting data
   - Our dependent variable was sales
   - Our independent variables were incentive counts, incentive max amounts, demographics, population, and county
-- We were originally thinking to use a multiple linear regression, but chose a Random Forest Regressor for better fit
+  - Split on number of sales, removed sales percentage
+- We were originally thinking to use a multiple linear regression, but chose a Random Forest Regressor for better fit and prediction
 - The model was run 4 times: merged_demo with and without counties, county_year_merged with and without counties
   - merged_demo with counties received an R² training score of 0.986 and testing score of 0.907
   - merged_demo without counties received an R² training score of 0.971 and testing score of 0.792
   - county_year_merged with counties received an R² training score of 0.988 and testing score of 0.839
   - county_year_merged without counties received an R² training score of 0.970 and testing score of 0.772
-- Found a stacking regressor [here](https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html#sphx-glr-auto-examples-ensemble-plot-stack-predictors-py) which lead us to try Gradient Boosting Regressor
+- Found a stacking regressor [here](https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html#sphx-glr-auto-examples-ensemble-plot-stack-predictors-py), which lead us to try Gradient Boosting Regressor
   - merged_demo with counties received best accuracy score on training set of 100% and testing set of 92.4%
   - merged_demo without counties received best accuracy score on training set of 100% and testing set of 92.3%
   - county_year_merged with counties received best accuracy score on training set of 100% and testing set of 82.1%
