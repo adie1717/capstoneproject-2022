@@ -68,20 +68,23 @@ All datasets are for the state of California, we focused our efforts on the year
       - merged_demo is similar to above, but only covers 2015-2017, and includes average (statewide) demographics for each year
       - sales_pop is joined on county and year for sales and population
 - 2 tables created with pandas to calculate and add in percentages (county_year_sales, avg_demo)
-- The database interfaces directly with the machine learning model 
 
-## Machine Learning Model
-- In evaluating our data, we considered all points that would support our topic
-  - Do the number of incentives offered in counties of California contribute to EV sales?
-- After initial evaluation, we identified that the incentives and sales data would provided the best model for our hypothesis
-- The demographics data served best as supporting data
-  - Our Dependent variables were: Ownership/Sales
-  - Our Independent variables were: Income, Incentives, Length of Commute, etc.
-    - The final 3 highest correlated factors were determined by multiple linear regression analysis
-<!-- Outputs label(s) for input data
-  - p-values of top 3 correlated factors
-  - Accuracy of nn model prediction of EV ownership -->
-- Due to COVID-19 creating large variance, we will not include 2020-2021 in our analysis
+## Machine Learning Models
+- After initial evaluation, we identified that the incentives, population, and sales data would provided the best model for our hypothesis
+- Demographics provided supporting data
+  - Our dependent variable was sales
+  - Our independent variables were incentive counts, incentive max amounts, demographics, population, and county
+- We were originally thinking to use a multiple linear regression, but chose a Random Forest Regressor for better fit
+- The model was run 4 times: merged_demo with and without counties, county_year_merged with and without counties
+  - merged_demo with counties received an R² training score of 0.986 and testing score of 0.907
+  - merged_demo without counties received an R² training score of 0.971 and testing score of 0.792
+  - county_year_merged with counties received an R² training score of 0.988 and testing score of 0.839
+  - county_year_merged without counties received an R² training score of 0.970 and testing score of 0.772
+- Found a stacking regressor [here](https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html#sphx-glr-auto-examples-ensemble-plot-stack-predictors-py) which lead us to try Gradient Boosting Regressor
+  - merged_demo with counties received best accuracy score on training set of 100% and testing set of 92.4%
+  - merged_demo without counties received best accuracy score on training set of 100% and testing set of 92.3%
+  - county_year_merged with counties received best accuracy score on training set of 100% and testing set of 82.1%
+  - county_year_merged without counties received best accuracy score on training set of 100% and testing set of 78.8%
 
 ## Results
 <!-- Visualizations or bullet points for presentation -->
@@ -91,10 +94,17 @@ All datasets are for the state of California, we focused our efforts on the year
 
 ### Limitations
 <!-- Where did we struggle? What could have been better? What was lacking? Leads into Future Opps -->
+- Demographics data wasn't as meaningful since it wasn't separated by county
+  - Ideally we would also have found demographics data that was sex-disaggregated and included other socio-economic data
+- Time constraints prevented us from implementing some things as planned
+  - Due to COVID-19 creating large variance in sales, we wanted to exclude 2020-2021 from our analysis
+  - For loops and conditionals for county_year_merged ate up a lot of time
+  - Dependencies on database setup created backlog
 
 ## Future Opportunities
 <!-- Where can we go from here? Specify data, models, tools -->
 - Given more time for data exploration, one of the factors we would consider is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county? 
 - Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract younger generations to bridge the gap. 
+
 
 
