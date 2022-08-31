@@ -149,9 +149,9 @@ Santa Clara,Grant,Any,5000,1,1,0,1,1/1/2015,1/1/2023
 Santa Clara,Toll discount,CAV,7,1,0,0,0,1/1/2019,1/1/2023
 Santa Clara,Rebate,EV Charger,550,1,0,1,0,1/1/2019,1/1/2023
 Santa Cruz,Grant,Any,5000,1,1,0,1,11/5/2015,1/1/2023
-ShastaÂ ,Rebate,BEV,1000,1,0,1,0,1/1/2019,1/1/2023
-ShastaÂ ,Rebate,PHEV,1000,1,0,1,0,1/1/2019,1/1/2023
-ShastaÂ ,Rebate,EV Charger,1500,1,0,1,0,1/1/2019,1/1/2023
+Shasta,Rebate,BEV,1000,1,0,1,0,1/1/2019,1/1/2023
+Shasta,Rebate,PHEV,1000,1,0,1,0,1/1/2019,1/1/2023
+Shasta,Rebate,EV Charger,1500,1,0,1,0,1/1/2019,1/1/2023
 Sierra,Rebate,BEV,500,1,0,1,1,1/1/2019,1/1/2023
 Sierra,Rebate,PHEV,500,1,0,1,1,1/1/2019,1/1/2023
 Solano,Grant,Any,9500,1,1,1,1,3/1/2019,1/1/2023
