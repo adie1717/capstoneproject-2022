@@ -14,7 +14,7 @@ A collaborative project to determine what factors drive adoption of electric veh
 * [Overview of Project](#overview-of-project)
 * [Data Collection and Cleaning](#data-collection-and-cleaning)
 * [Database](#database)
-* [Machine Learning Model](#machine-learning-model)
+* [Machine Learning Models](#machine-learning-models)
 * [Results](#results)
 * [Summary](#summary)
 * [Future Opportunities](#future-opportunities)
