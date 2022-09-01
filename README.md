@@ -95,7 +95,7 @@ All datasets are for the state of California, we focused our efforts on the year
 ### Limitations
 <!-- Where did we struggle? What could have been better? What was lacking? Leads into Future Opps -->
 - Demographics data wasn't as meaningful since it wasn't separated by county
-  - Ideally we would also have found demographics data that was sex-disaggregated and included other socio-economic data
+  - Ideally we would also have found demographics data that included other socio-economic data as well
 - Time constraints prevented us from implementing some things as planned
   - Due to COVID-19 creating large variance in sales, we wanted to exclude 2020-2021 from our analysis
   - For loops and conditionals for county_year_merged ate up a lot of time
