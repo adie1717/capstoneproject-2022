@@ -113,6 +113,7 @@ Both the Random Forest Regressor and Gradient Boosting Regressor did well at pre
 The merged_demo data with counties included had the best results for both models.
 - Random Forest: R² training score of 0.986 and testing score of 0.907
 - Gradient Boosting: Accuracy score on training set of 100% and testing set of 92.4%
+
 The county_year_merged data without counties performed the worst for both models.
 - Random Forest: R² training score of 0.970 and testing score of 0.772
 - Gradient Boosting: Accuracy score on training set of 100% and testing set of 78.8%
@@ -143,6 +144,9 @@ The demographics data wasn't as meaningful since it wasn't separated by county a
 <!-- Where can we go from here? Specify data, models, tools -->
 - One of the factors we would consider is ethnic and racial diversity in each county
     - Does this matter and or play a part in the breakdown of sales by county?
+- Deeper look into Orange, Los Angeles, and Santa Clara counties
+    - With populations varying so much, what are the factors within these counties that are similar?
+    - Look at these feature importances in other counties
 - Comparison of ICE (Internal Combustion Engine) and EV sales
     - Do different vehicle types sell at similar rates within counties?
       - If not, what factors contribute to these differences?
