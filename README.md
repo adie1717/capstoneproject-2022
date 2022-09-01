@@ -26,7 +26,7 @@ A collaborative project to determine what factors drive adoption of electric veh
 ## Overview of Project
 We looked within California counties to determine any relevant factors that contribute most to EV purchases. The primary data we used for our analysis was the amount of incentives offered and max amount of incentives by county. As supplementary factors, we also used population and demographic data. Using this analysis we hope to be able to accurately predict whether someone will buy an EV, and present to manufacturers the strengths and weaknesses in their market and potential improvements that can be made.
 
-Hypothesis: The 3 major factors improve EV adoption in counties.
+Hypothesis: Incentives improve EV adoption in counties.
 - What is the opportunity in identifying a gap in this dataset?
 - What is the market opportunity?
 - Which counties in CA should EV manufacturers focus their marketing?
@@ -78,7 +78,7 @@ After initial evaluation, we identified that the incentives, population, and sal
 
 merged_demo with counties                    |  merged_demo without counties
 :-----------------------------------:|:-----------------------------------:
-![merged_demo_c](/Images/Merged_demo_counties_ML.PNG | width=100) |  ![merged_demo_nc](/Images/Merged_demo_ML.PNG | width=100)
+![merged_demo_c](/Images/Merged_demo_counties_ML.PNG) |  ![merged_demo_nc](/Images/Merged_demo_ML.PNG)
 ![1](/Images/rfreg_mdemo_c1.png) |  ![1](/Images/rfreg_mdemo_nc1.png)
 ![2](/Images/rfreg_mdemo_c2.png) |  ![2](/Images/rfreg_mdemo_nc2.png)
 ![3](/Images/rfreg_mdemo_c3.png) |  ![3](/Images/rfreg_mdemo_nc3.png)
@@ -118,9 +118,14 @@ Both the Random Forest Regressor and Gradient Boosting Regressor did well at pre
 The merged_demo data with counties included had the best results for both models.
 - Random Forest: R² training score of 0.986 and testing score of 0.907
 - Gradient Boosting: Accuracy score on training set of 100% and testing set of 92.4%
+
 The county_year_merged data without counties performed the worst for both models.
 - Random Forest: R² training score of 0.970 and testing score of 0.772
 - Gradient Boosting: Accuracy score on training set of 100% and testing set of 78.8%
+
+<div class='tableauPlaceholder' id='viz1662055482633' style='position: relative'><noscript><a href='https://public.tableau.com/views/CaliforniaEVDreams/CAEVDreams?:language=en-US&:display_count=n&:origin=viz_share_link'><img alt='CA EV Dreams ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaEVDreams&#47;CAEVDreams&#47;1_rss.png' style='border: none' width="650" /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CaliforniaEVDreams&#47;CAEVDreams' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaEVDreams&#47;CAEVDreams&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+
+
 
 ## Summary
 <!-- Answer our questions, did this turn out as expected? If not, what surprised us? Quick notes for manufacturers:
@@ -128,7 +133,7 @@ The county_year_merged data without counties performed the worst for both models
 - What is the market opportunity?
 - Which counties in CA should EV manufacturers focus their marketing?
 - Should EV manufacturers be encouraging implementation of incentives to drive sales? -->
-Given the results, feature importances, and visualizations, we definitively concluded that **incentives do drive EV sales in California** and that incentive count or amount available in counties is highly correlated with sales *and* ability to predict sales. Unsurprisingly, population also plays a large factor in EV sales, but the 3 counties that showed up in the top 3 feature importances in the different Random Tree Regression models vary widely in population. According to California's Department of Finance county population estimates as of 2022:
+Given the results, feature importances, and visualizations, we concluded that **incentives are highly correlated to EV sales in California**. Incentive count or amount is correlated with sales *and* ability to predict sales for most of our models. Unsurprisingly, population also plays a large factor in EV sales, but the 3 counties that showed up in the top 3 feature importances in the different Random Tree Regression models vary widely in population. According to California's Department of Finance county population estimates as of 2022:
 - Orange has a population of 3,186,989 (county_year_merged top 3)
 - Los Angeles has a population of 10,014,009 (merged_demo top 3)
 - Santa Clara has a population of 1,936,259 (merged_demo top 3)
@@ -144,6 +149,9 @@ The demographics data wasn't as meaningful since it wasn't separated by county a
 <!-- Where can we go from here? Specify data, models, tools -->
 - One of the factors we would consider is ethnic and racial diversity in each county
     - Does this matter and or play a part in the breakdown of sales by county?
+- Deeper look into Orange, Los Angeles, and Santa Clara counties
+    - With populations varying so much, what are the factors within these counties that are similar?
+    - Look at these feature importances in other counties
 - Comparison of ICE (Internal Combustion Engine) and EV sales
     - Do different vehicle types sell at similar rates within counties?
       - If not, what factors contribute to these differences?
