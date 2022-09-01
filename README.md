@@ -78,7 +78,7 @@ After initial evaluation, we identified that the incentives, population, and sal
 
 merged_demo with counties                    |  merged_demo without counties
 :-----------------------------------:|:-----------------------------------:
-![merged_demo_c](/Images/Merged_demo_counties_ML.PNG | width=100) |  ![merged_demo_nc](/Images/Merged_demo_ML.PNG | width=100)
+![merged_demo_c](/Images/Merged_demo_counties_ML.PNG) |  ![merged_demo_nc](/Images/Merged_demo_ML.PNG)
 ![1](/Images/rfreg_mdemo_c1.png) |  ![1](/Images/rfreg_mdemo_nc1.png)
 ![2](/Images/rfreg_mdemo_c2.png) |  ![2](/Images/rfreg_mdemo_nc2.png)
 ![3](/Images/rfreg_mdemo_c3.png) |  ![3](/Images/rfreg_mdemo_nc3.png)
