@@ -86,7 +86,7 @@ All datasets are for the state of California, we focused our efforts on the year
   - county_year_merged with counties received best accuracy score on training set of 100% and testing set of 82.1%
   - county_year_merged without counties received best accuracy score on training set of 100% and testing set of 78.8%
 
-<<<<<<< HEAD
+
 ## Dashboard 
 Link to HTML Dashboard: [EV California Dreams](https://juanjflores94.github.io/EV_Project.github.io/)
 
@@ -95,8 +95,6 @@ Link to HTML Dashboard: [EV California Dreams](https://juanjflores94.github.io/E
 - Given more time for data exploration, one of the factors we would consieer is ethnic and racial diversity in each county. Does this matter and or play a part in the breakdown of sales by county. 
 - Another factor we would consider is age. At a very high level, the demographics data showed that the average age of an EV owner in counties across California is 50. This highglighted a major opportunity for manufacturers to tap into a younger demographic. Perhaps manufacturers could stand to build a customer centric approach to attract millenials and younger generations to bridge the gap. 
 
-=======
->>>>>>> 500c71190339e574f2b4fa530a4ea29979d0f34d
 ## Results
 <!-- Visualizations or bullet points for presentation -->
 
