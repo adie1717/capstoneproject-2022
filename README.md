@@ -26,7 +26,7 @@ A collaborative project to determine what factors drive adoption of electric veh
 ## Overview of Project
 We looked within California counties to determine any relevant factors that contribute most to EV purchases. The primary data we used for our analysis was the amount of incentives offered and max amount of incentives by county. As supplementary factors, we also used population and demographic data. Using this analysis we hope to be able to accurately predict whether someone will buy an EV, and present to manufacturers the strengths and weaknesses in their market and potential improvements that can be made.
 
-Hypothesis: The 3 major factors improve EV adoption in counties.
+Hypothesis: Incentives improve EV adoption in counties.
 - What is the opportunity in identifying a gap in this dataset?
 - What is the market opportunity?
 - Which counties in CA should EV manufacturers focus their marketing?
@@ -117,13 +117,15 @@ The county_year_merged data without counties performed the worst for both models
 - Random Forest: R² training score of 0.970 and testing score of 0.772
 - Gradient Boosting: Accuracy score on training set of 100% and testing set of 78.8%
 
+<div class='tableauPlaceholder' id='viz1662054058563' style='position: relative'><noscript><a href='#'><img alt='CA EV Dreams ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaEVDreams&#47;CAEVDreams&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CaliforniaEVDreams&#47;CAEVDreams' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaEVDreams&#47;CAEVDreams&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1662054058563');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
 ## Summary
 <!-- Answer our questions, did this turn out as expected? If not, what surprised us? Quick notes for manufacturers:
 - What is the opportunity in identifying a gap in this dataset?
 - What is the market opportunity?
 - Which counties in CA should EV manufacturers focus their marketing?
 - Should EV manufacturers be encouraging implementation of incentives to drive sales? -->
-Given the results, feature importances, and visualizations, we definitively concluded that **incentives do drive EV sales in California** and that incentive count or amount available in counties is highly correlated with sales *and* ability to predict sales. Unsurprisingly, population also plays a large factor in EV sales, but the 3 counties that showed up in the top 3 feature importances in the different Random Tree Regression models vary widely in population. According to California's Department of Finance county population estimates as of 2022:
+Given the results, feature importances, and visualizations, we concluded that **incentives are highly correlated to EV sales in California**. Incentive count or amount is correlated with sales *and* ability to predict sales for most of our models. Unsurprisingly, population also plays a large factor in EV sales, but the 3 counties that showed up in the top 3 feature importances in the different Random Tree Regression models vary widely in population. According to California's Department of Finance county population estimates as of 2022:
 - Orange has a population of 3,186,989 (county_year_merged top 3)
 - Los Angeles has a population of 10,014,009 (merged_demo top 3)
 - Santa Clara has a population of 1,936,259 (merged_demo top 3)
