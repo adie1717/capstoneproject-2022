@@ -106,6 +106,11 @@ We found a stacking regressor [here](https://scikit-learn.org/stable/auto_exampl
 - county_year_merged with counties received best accuracy score on training set of 100% and testing set of 82.1%
 - county_year_merged without counties received best accuracy score on training set of 100% and testing set of 78.8%
 
+
+## Dashboard 
+Link to HTML Dashboard: [EV California Dreams](https://juanjflores94.github.io/EV_Project.github.io/)
+
+
 ## Results
 <!-- Visualizations from Tableau included, bullet points for presentation -->
 Both the Random Forest Regressor and Gradient Boosting Regressor did well at predicting EV sales, with R² values above 0.75 and accuracy scores above 75% (respectively) for all models run. Incentives were in the top 3 feature importance for all models, except for the merged_demo data with counties. However, incentives still made the top 10 feature importances for this dataset.
