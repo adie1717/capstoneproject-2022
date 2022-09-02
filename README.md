@@ -108,7 +108,7 @@ We found a stacking regressor [here](https://scikit-learn.org/stable/auto_exampl
 
 
 ## Dashboard 
-Link to HTML Dashboard: [EV California Dreams](https://juanjflores94.github.io/EV_Project.github.io/)
+Link to website, which includes Tableau dashboards and presentation slide deck: [EV California Dreams](https://juanjflores94.github.io/EV_Project.github.io/)
 
 
 ## Results
