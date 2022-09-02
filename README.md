@@ -134,9 +134,9 @@ The county_year_merged data without counties performed the worst for both models
 - Which counties in CA should EV manufacturers focus their marketing?
 - Should EV manufacturers be encouraging implementation of incentives to drive sales? -->
 Given the results, feature importances, and visualizations, we concluded that **incentives are highly correlated to EV sales in California**. Incentive count or amount is correlated with sales *and* ability to predict sales for most of our models. Unsurprisingly, population also plays a large factor in EV sales, but the 3 counties that showed up in the top 3 feature importances in the different Random Tree Regression models vary widely in population. According to California's Department of Finance county population estimates as of 2022:
-- Orange has a population of 3,186,989 (county_year_merged top 3)
-- Los Angeles has a population of 10,014,009 (merged_demo top 3)
-- Santa Clara has a population of 1,936,259 (merged_demo top 3)
+- Orange has a population of 3,186,989
+- Los Angeles has a population of 10,014,009
+- Santa Clara has a population of 1,936,259
 
 ### Limitations
 <!-- Where did we struggle? What could have been better? What was lacking? Leads into Future Opps -->
