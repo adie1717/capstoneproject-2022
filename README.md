@@ -106,11 +106,6 @@ We found a stacking regressor [here](https://scikit-learn.org/stable/auto_exampl
 - county_year_merged with counties received best accuracy score on training set of 100% and testing set of 82.1%
 - county_year_merged without counties received best accuracy score on training set of 100% and testing set of 78.8%
 
-
-## Dashboard 
-Link to website, which includes Tableau dashboards and presentation slide deck: [EV California Dreams](https://juanjflores94.github.io/EV_Project.github.io/)
-
-
 ## Results
 <!-- Visualizations from Tableau included, bullet points for presentation -->
 Both the Random Forest Regressor and Gradient Boosting Regressor did well at predicting EV sales, with R² values above 0.75 and accuracy scores above 75% (respectively) for all models run. Incentives were in the top 3 feature importance for all models, except for the merged_demo data with counties. However, incentives still made the top 10 feature importances for this dataset.
@@ -125,7 +120,7 @@ The county_year_merged data without counties performed the worst for both models
 
 <div class='tableauPlaceholder' id='viz1662055482633' style='position: relative'><noscript><a href='https://public.tableau.com/views/CaliforniaEVDreams/CAEVDreams?:language=en-US&:display_count=n&:origin=viz_share_link'><img alt='CA EV Dreams ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaEVDreams&#47;CAEVDreams&#47;1_rss.png' style='border: none' width="650" /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CaliforniaEVDreams&#47;CAEVDreams' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CaliforniaEVDreams&#47;CAEVDreams&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
-
+Link to website, which includes Tableau dashboards and presentation slide deck: [EV California Dreams](https://juanjflores94.github.io/EV_Project.github.io/)
 
 ## Summary
 <!-- Answer our questions, did this turn out as expected? If not, what surprised us? Quick notes for manufacturers:
